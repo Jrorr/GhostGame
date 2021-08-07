@@ -1,128 +1,128 @@
-﻿Log file open, 08/07/21 14:15:28
+﻿Log file open, 08/07/21 15:44:50
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: GhostGame
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.205948
+LogStats: Stats thread started at 0.215654
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
-LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
-LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CameraShakePreviewer
-LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
-LogPluginManager: Mounting plugin Niagara
-LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin GitSourceControl
-LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
-LogPluginManager: Mounting plugin AlembicImporter
-LogPluginManager: Mounting plugin PluginUtils
-LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin AutomationUtils
-LogPluginManager: Mounting plugin UObjectPlugin
-LogPluginManager: Mounting plugin BackChannel
-LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin ChaosSolverPlugin
-LogPluginManager: Mounting plugin ChaosEditor
-LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin GeometryCache
-LogPluginManager: Mounting plugin MagicLeapLightEstimation
-LogPluginManager: Mounting plugin MagicLeapMedia
-LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin MLSDK
-LogPluginManager: Mounting plugin GeometryProcessing
-LogPluginManager: Mounting plugin GeometryCollectionPlugin
-LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
-LogPluginManager: Mounting plugin MediaCompositing
-LogPluginManager: Mounting plugin ImgMedia
-LogPluginManager: Mounting plugin MediaPlayerEditor
-LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin WebMMedia
-LogPluginManager: Mounting plugin OnlineSubsystem
-LogPluginManager: Mounting plugin OnlineSubsystemNull
-LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin TcpMessaging
-LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
-LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
-LogPluginManager: Mounting plugin AppleMoviePlayer
-LogPluginManager: Mounting plugin AudioCapture
-LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin ArchVisCharacter
-LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
-LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
-LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
-LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
-LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin ProceduralMeshComponent
-LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin AssetManagerEditor
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin MacGraphicsSwitching
-LogPluginManager: Mounting plugin PluginBrowser
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin MaterialAnalyzer
-LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
-LogPluginManager: Mounting plugin ContentBrowserClassDataSource
-LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogXGEController: Cleaning working directory: C:/Users/cthoi/AppData/Local/Temp/UnrealXGEWorkingDir/
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 LogInit: Using libcurl 7.55.1-DEV
@@ -208,864 +208,691 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2021.08.07-18.15.28:954][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2021.08.07-18.15.28:954][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2021.08.07-18.15.28:954][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
-[2021.08.07-18.15.28:954][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2021.08.07-18.15.28:954][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
-[2021.08.07-18.15.28:954][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
-[2021.08.07-18.15.28:954][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2021.08.07-18.15.28:954][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2021.08.07-18.15.28:954][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2021.08.07-18.15.28:954][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2021.08.07-18.15.28:954][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2021.08.07-18.15.28:954][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2021.08.07-18.15.28:954][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2021.08.07-18.15.28:955][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
-[2021.08.07-18.15.28:955][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
-[2021.08.07-18.15.28:965][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.08.07-18.15.28:965][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.08.07-18.15.28:966][  0]LogInit: Selected Device Profile: [Windows]
-[2021.08.07-18.15.28:966][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2021.08.07-18.15.28:966][  0]LogHAL: Display: Platform has ~ 16 GB [16991240192 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2021.08.07-18.15.28:966][  0]LogInit: Going up to parent DeviceProfile []
-[2021.08.07-18.15.28:966][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.08.07-18.15.28:966][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.08.07-18.15.28:967][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2021.08.07-18.15.28:968][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2021.08.07-18.15.28:968][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2021.08.07-18.15.28:968][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2021.08.07-18.15.28:968][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
-[2021.08.07-18.15.28:968][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Editor.ini]
-[2021.08.07-18.15.28:968][  0]LogInit: Computer: MSI
-[2021.08.07-18.15.28:968][  0]LogInit: User: cthoi
-[2021.08.07-18.15.28:968][  0]LogInit: CPU Page size=4096, Cores=6
-[2021.08.07-18.15.28:968][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2021.08.07-18.15.28:968][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
-[2021.08.07-18.15.28:968][  0]LogMemory: Platform Memory Stats for Windows
-[2021.08.07-18.15.28:968][  0]LogMemory: Process Physical Memory: 139.47 MB used, 139.47 MB peak
-[2021.08.07-18.15.28:968][  0]LogMemory: Process Virtual Memory: 112.05 MB used, 112.05 MB peak
-[2021.08.07-18.15.28:968][  0]LogMemory: Physical Memory: 8158.20 MB used,  8045.91 MB free, 16204.11 MB total
-[2021.08.07-18.15.28:968][  0]LogMemory: Virtual Memory: 134212960.00 MB used,  4770.97 MB free, 134217728.00 MB total
-[2021.08.07-18.15.28:991][  0]LogWindows: WindowsPlatformFeatures enabled
-[2021.08.07-18.15.29:023][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2021.08.07-18.15.29:027][  0]LogInit: Using OS detected language (en-US).
-[2021.08.07-18.15.29:027][  0]LogInit: Using OS detected locale (en-US).
-[2021.08.07-18.15.29:034][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2021.08.07-18.15.29:212][  0]LogInit: Setting process to per monitor DPI aware
-[2021.08.07-18.15.29:220][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2021.08.07-18.15.29:232][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2021.08.07-18.15.29:232][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2021.08.07-18.15.29:370][  0]LogHMD: Failed to initialize OpenVR with code 101
-[2021.08.07-18.15.29:370][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2021.08.07-18.15.29:370][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2021.08.07-18.15.29:370][  0]LogD3D11RHI: D3D11 adapters:
-[2021.08.07-18.15.29:449][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Super' (Feature Level 11_0)
-[2021.08.07-18.15.29:449][  0]LogD3D11RHI:       8010/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2021.08.07-18.15.29:476][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
-[2021.08.07-18.15.29:476][  0]LogD3D11RHI:       128/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2021.08.07-18.15.29:478][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2021.08.07-18.15.29:478][  0]LogD3D11RHI:       0/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2021.08.07-18.15.29:478][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2021.08.07-18.15.29:483][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2021.08.07-18.15.29:483][  0]LogD3D11RHI:     GPU DeviceId: 0x1e93 (for the marketing name, search the web for "GPU Device Id")
-[2021.08.07-18.15.29:483][  0]LogWindows: EnumDisplayDevices:
-[2021.08.07-18.15.29:483][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
-[2021.08.07-18.15.29:484][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
-[2021.08.07-18.15.29:484][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
-[2021.08.07-18.15.29:484][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:1)
-[2021.08.07-18.15.29:484][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
-[2021.08.07-18.15.29:484][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
-[2021.08.07-18.15.29:484][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
-[2021.08.07-18.15.29:485][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2021.08.07-18.15.29:485][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Super
-[2021.08.07-18.15.29:485][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
-[2021.08.07-18.15.29:485][  0]LogD3D11RHI:      Driver Date: 7-12-2021
-[2021.08.07-18.15.29:485][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
-[2021.08.07-18.15.29:547][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2021.08.07-18.15.29:547][  0]LogD3D11RHI: Async texture creation enabled
-[2021.08.07-18.15.29:547][  0]LogD3D11RHI: Array index from any shader is supported
-[2021.08.07-18.15.29:561][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2021.08.07-18.15.29:562][  0]LogRHI: GeForceNow SDK initialized: 1
-[2021.08.07-18.15.29:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2021.08.07-18.15.29:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2021.08.07-18.15.29:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2021.08.07-18.15.29:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2021.08.07-18.15.29:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2021.08.07-18.15.29:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2021.08.07-18.15.29:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2021.08.07-18.15.29:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2021.08.07-18.15.29:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2021.08.07-18.15.29:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2021.08.07-18.15.29:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2021.08.07-18.15.29:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2021.08.07-18.15.29:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2021.08.07-18.15.29:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2021.08.07-18.15.29:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2021.08.07-18.15.29:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2021.08.07-18.15.29:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2021.08.07-18.15.29:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2021.08.07-18.15.29:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2021.08.07-18.15.29:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2021.08.07-18.15.29:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2021.08.07-18.15.29:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2021.08.07-18.15.29:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
-[2021.08.07-18.15.29:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
-[2021.08.07-18.15.29:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
-[2021.08.07-18.15.29:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
-[2021.08.07-18.15.29:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2021.08.07-18.15.29:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2021.08.07-18.15.29:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2021.08.07-18.15.29:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2021.08.07-18.15.29:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2021.08.07-18.15.29:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2021.08.07-18.15.29:996][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2021.08.07-18.15.30:001][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2021.08.07-18.15.30:046][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2021.08.07-18.15.30:046][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Intermediate/Shaders/WorkingDirectory/18944/).
-[2021.08.07-18.15.30:046][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cthoi/AppData/Local/Temp/UnrealShaderWorkingDir/845A57D84C51D2362C1D8DA450190A6E/'.
-[2021.08.07-18.15.30:047][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2021.08.07-18.15.30:047][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2021.08.07-18.15.30:740][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2021.08.07-18.15.30:783][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/cthoi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2021.08.07-18.15.30:783][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cthoi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
-[2021.08.07-18.15.30:783][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2021.08.07-18.15.30:783][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2021.08.07-18.15.30:783][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.08.07-18.15.30:783][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2021.08.07-18.15.30:795][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2021.08.07-18.15.30:795][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.08.07-18.15.30:795][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2021.08.07-18.15.30:802][  0]LogDerivedDataCache: Speed tests for C:/Users/cthoi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
-[2021.08.07-18.15.30:802][  0]LogDerivedDataCache: Display: Performance to C:/Users/cthoi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=354.50MBs, RandomWriteSpeed=233.72MBs. Assigned SpeedClass 'Local'
-[2021.08.07-18.15.30:802][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cthoi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2021.08.07-18.15.30:802][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2021.08.07-18.15.30:802][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2021.08.07-18.15.30:845][  0]LogSlate: Using FreeType 2.10.0
-[2021.08.07-18.15.30:845][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2021.08.07-18.15.30:875][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
-[2021.08.07-18.15.31:102][  0]LogInit: Selected Device Profile: [Windows]
-[2021.08.07-18.15.31:102][  0]LogInit: Active device profile: [0000020590D5D900][0000020590515600 49] Windows
-[2021.08.07-18.15.31:102][  0]LogInit: Profiles: [0000020590D5D900][0000020590515600 49] Windows, [0000020590D5B900][0000020590511740 49] WindowsNoEditor, [0000020590D5F300][0000020590519880 49] WindowsServer, [0000020590D59000][000002059051D9C0 49] WindowsClient, [0000020590D5D100][0000020590525B40 49] IOS, [0000020590D5B600][0000020590529CC0 49] iPadAir, [0000020590D5F200][000002059052C180 49] iPadAir2, [0000020590D06600][0000020590534440 49] IPadPro, [0000020590D06700][0000020590530480 49] iPadAir3, [0000020590D5F700][0000020590538600 49] iPadAir4, [0000020590D07C00][000002059053C780 49] iPadMini2, [0000020590D5DF00][0000020590540900 49] iPadMini3, [0000020590D05B00][0000020590544A80 49] iPadMini4, [0000020590D5DC00][0000020590548C00 49] iPadMini5, [0000020590D49F00][0000020590550EC0 49] iPhone6, [0000020590D4A000][000002059054CF00 49] iPodTouch6, [0000020590D5B700][00000205905591C0 49] iPhone7, [0000020590D5B800][0000020590555200 49] iPodTouch7, [0000020590D4B600][000002059055D380 49] iPhone5S, [0000020590D59800][0000020591571500 49] iPhone6Plus, [0000020590D49900][0000020590521640 49] iPhone6S, [0000020590D5BE00][0000020591575780 49] iPhone6SPlus, [0000020590D48C00][00000205915798C0 49] iPhone7Plus, [0000020590D5A100][000002059157DA00 49] iPhoneSE, [0000020590D49200][0000020591585B80 49] iPhone8, [0000020590D5B400][0000020591589D00 49] iPhone8Plus, [0000020590D48700][000002059158C1C0 49] iPhoneX, [0000020590D59200][0000020591590340 49] iPhoneXS, [0000020590D4A500][00000205915944C0 49] iPhoneXSMax, [0000020590D58700][0000020591598640 49] iPhoneXR, [0000020590D4B000][000002059159C7C0 49] iPhone11, [0000020590D5AD00][00000205915A0940 49] iPhone11Pro, [0000020590D49800][00000205915A4AC0 49] iPhone11ProMax, [0000020590D5A300][00000205915A8C40 49] iPhoneSE2, [0000020590D4BC00][00000205915ACDC0 49] iPhone12Mini, [0000020590D5A200][00000205915B0F40 49] iPhone12, [0000020590D5FA00][00000205915B50C0 49] iPhone12Pro, [0000020590D49700][00000205915B9240 49] iPhone12ProMax, [0000020590D5FC00][00000205915BD3C0 49] iPadPro105, [0000020590D48E00][00000205915C1540 49] iPadPro129, [0000020590D5ED00][00000205915C56C0 49] iPadPro97, [0000020590D4AC00][0000020591581800 49] iPadPro2_129, [0000020590D59700][00000205915C9940 49] iPad5, [0000020590D4B800][00000205915CDA80 49] iPad6, [0000020590D59A00][00000205915D5C00 49] iPad7, [0000020590D4BB00][00000205915D80C0 49] iPad8, [0000020590D58C00][00000205915DC240 49] iPadPro11, [0000020590D48B00][00000205915E03C0 49] iPadPro2_11, [0000020590D5B300][00000205915E4540 49] iPadPro3_129, [0000020590D48100][00000205915E86C0 49] iPadPro4_129, [0000020590D5B500][00000205915EC840 49] AppleTV, [0000020590D49100][00000205915F09C0 49] AppleTV4K, [0000020590D58100][00000205915F4B40 49] TVOS, [0000020590D48500][00000205915F8CC0 49] Mac, [0000020590D5B000][00000205915FCE40 49] MacClient, [0000020590D4BF00][0000020591600FC0 49] MacNoEditor, [0000020590D5BD00][0000020591605140 49] MacServer, [0000020590D4B100][00000205916092C0 49] Linux, [0000020590D59D00][000002059160D440 49] LinuxAArch64, [0000020590D4A100][00000205916115C0 49] LinuxNoEditor, [0000020590D5A700][0000020591615740 49] LinuxAArch64NoEditor, [0000020590D49400][00000205915D1880 49] LinuxClient, [0000020590D58200][00000205916199C0 49] LinuxAArch64Client, [0000020590D4A600][000002059161DB00 49] LinuxServer, [0000020590D5A000][0000020591621C40 49] LinuxAArch64Server, [0000020590D4AD00][0000020591628100 49] Android, [0000020590D58E00][000002059162C280 49] Android_Low, [0000020590D49500][0000020591630400 49] Android_Mid, [0000020590D5AB00][0000020591634580 49] Android_High, [0000020590D4A700][0000020591638700 49] Android_Default, [0000020590D59900][000002059163C880 49] Android_Adreno4xx, [0000020590D48A00][0000020591640A00 49] Android_Adreno5xx_Low, [0000020590D59100][0000020591644B80 49] Android_Adreno5xx, [0000020590D48800][0000020591648D00 49] Android_Adreno6xx, [0000020590D5B100][000002059164CE80 49] Android_Adreno6xx_Vulkan, [0000020590D4A800][0000020591651000 49] Android_Mali_T6xx, [0000020590D59600][0000020591655180 49] Android_Mali_T7xx, [0000020590D4B500][0000020591659300 49] Android_Mali_T8xx, [0000020590D5A800][000002059165D480 49] Android_Mali_G71, [0000020590D48F00][0000020591661600 49] Android_Mali_G72, [0000020590D58D00][0000020591665780 49] Android_Mali_G72_Vulkan, [0000020590D4AF00][00000205916258C0 49] Android_Mali_G76, [0000020590D59300][0000020591669A00 49] Android_Mali_G76_Vulkan, [0000020590D49B00][000002059166DB40 49] Android_Mali_G77, [0000020590D06E00][0000020591671C80 49] Android_Mali_G77_Vulkan, [0000020590D5F900][0000020591678140 49] Android_Vulkan_SM5, [0000020590D04800][000002059167C2C0 49] Android_PowerVR_G6xxx, [0000020590D5F400][0000020591680440 49] Android_PowerVR_GT7xxx, [0000020590D04E00][00000205916845C0 49] Android_PowerVR_GE8xxx, [0000020590D5D300][0000020591688740 49] Android_PowerVR_GM9xxx, [0000020590D04900][000002059168C8C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000020590D5DE00][0000020591690A40 49] Android_TegraK1, [0000020590D04C00][0000020591694BC0 49] Android_Unknown_Vulkan, [0000020590D5C200][0000020591698D40 49] Lumin, [0000020590D05000][000002059169CEC0 49] Lumin_Desktop, [0000020590D5D700][00000205916A1040 49] HoloLens, 
-[2021.08.07-18.15.31:194][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2021.08.07-18.15.31:194][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2021.08.07-18.15.31:194][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2021.08.07-18.15.31:194][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2021.08.07-18.15.31:194][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2021.08.07-18.15.31:207][  0]LogNetVersion: GhostGame 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 594247616)
-[2021.08.07-18.15.31:570][  0]LogHMD: PokeAHoleMaterial loaded successfully
-[2021.08.07-18.15.31:609][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.038530 seconds
-[2021.08.07-18.15.31:614][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
-[2021.08.07-18.15.31:614][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
-[2021.08.07-18.15.31:614][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2021.08.07-18.15.31:837][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2021.08.07-18.15.31:840][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2021.08.07-18.15.31:998][  0]SourceControl: Source control is disabled
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Programs/Git/cmd/git.exe version
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.31:999][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
-[2021.08.07-18.15.32:001][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:001][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Programs/Git/cmd/git.exe version
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:002][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
-[2021.08.07-18.15.32:021][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Programs/Git/cmd/git.exe version
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:022][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
-[2021.08.07-18.15.32:025][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:025][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
-[2021.08.07-18.15.32:025][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:025][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
-[2021.08.07-18.15.32:025][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:025][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Programs/Git/cmd/git.exe version
-[2021.08.07-18.15.32:026][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:026][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
-[2021.08.07-18.15.32:026][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:026][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
-[2021.08.07-18.15.32:026][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:026][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
-[2021.08.07-18.15.32:026][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.32:026][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
-[2021.08.07-18.15.32:037][  0]LogUProjectInfo: Found projects:
-[2021.08.07-18.15.32:042][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2021.08.07-18.15.32:042][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2021.08.07-18.15.32:136][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2021.08.07-18.15.32:139][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.08.07-18.15.32:140][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.08.07-18.15.32:236][  0]LogOcInput: OculusInput pre-init called
-[2021.08.07-18.15.32:245][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2021.08.07-18.15.32:245][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2021.08.07-18.15.32:251][  0]LogCollectionManager: Loaded 0 collections in 0.001296 seconds
-[2021.08.07-18.15.32:296][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Collections/' took 0.00s
-[2021.08.07-18.15.32:296][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Developers/cthoi/Collections/' took 0.00s
-[2021.08.07-18.15.32:296][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Collections/' took 0.00s
-[2021.08.07-18.15.32:296][  0]LogEngine: Initializing Engine...
-[2021.08.07-18.15.32:297][  0]LogHMD: Failed to initialize OpenVR with code 101
-[2021.08.07-18.15.32:297][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2021.08.07-18.15.32:298][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2021.08.07-18.15.32:395][  0]LogInit: Initializing FReadOnlyCVARCache
-[2021.08.07-18.15.32:400][  0]LogAIModule: Creating AISystem for world Untitled
-[2021.08.07-18.15.32:410][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2021.08.07-18.15.32:413][  0]LogAudio: Display: Audio Device Manager Initialized
-[2021.08.07-18.15.32:413][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2021.08.07-18.15.32:413][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.08.07-18.15.32:413][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.08.07-18.15.32:413][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.08.07-18.15.32:413][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.08.07-18.15.32:413][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.08.07-18.15.32:413][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.08.07-18.15.32:413][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.08.07-18.15.32:413][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.08.07-18.15.32:414][  0]LogAudio: Display: Using built-in audio occlusion.
-[2021.08.07-18.15.32:414][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2021.08.07-18.15.32:455][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.08.07-18.15.32:455][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.08.07-18.15.32:556][  0]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
-[2021.08.07-18.15.32:563][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.08.07-18.15.32:565][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.08.07-18.15.32:565][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.08.07-18.15.32:565][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.08.07-18.15.32:565][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.08.07-18.15.32:565][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.08.07-18.15.32:566][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.08.07-18.15.32:566][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.08.07-18.15.32:566][  0]LogInit: FAudioDevice initialized.
-[2021.08.07-18.15.32:566][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2021.08.07-18.15.32:566][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2021.08.07-18.15.32:605][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/cthoi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2021.08.07-18.15.32:609][  0]LogInit: Texture streaming: Enabled
-[2021.08.07-18.15.32:618][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
-[2021.08.07-18.15.32:621][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2021.08.07-18.15.32:621][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={9C302671-40B1-C3A5-4515-E0B93C953294}
-[2021.08.07-18.15.32:621][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2021.08.07-18.15.32:623][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2021.08.07-18.15.32:643][  0]LogInit: Transaction tracking system initialized
-[2021.08.07-18.15.32:659][  0]BlueprintLog: New page: Editor Load
-[2021.08.07-18.15.32:722][  0]LocalizationService: Localization service is disabled
-[2021.08.07-18.15.32:745][  0]TimingProfiler: Initialize
-[2021.08.07-18.15.32:746][  0]TimingProfiler: OnSessionChanged
-[2021.08.07-18.15.32:746][  0]LoadingProfiler: Initialize
-[2021.08.07-18.15.32:746][  0]LoadingProfiler: OnSessionChanged
-[2021.08.07-18.15.32:746][  0]NetworkingProfiler: Initialize
-[2021.08.07-18.15.32:746][  0]NetworkingProfiler: OnSessionChanged
-[2021.08.07-18.15.32:746][  0]MemoryProfiler: Initialize
-[2021.08.07-18.15.32:746][  0]MemoryProfiler: OnSessionChanged
-[2021.08.07-18.15.32:790][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2021.08.07-18.15.32:790][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2021.08.07-18.15.32:859][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
-[2021.08.07-18.15.32:859][  0]LogCook: Display: Mobile HDR setting 1
-[2021.08.07-18.15.32:975][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/' took 0.01s
-[2021.08.07-18.15.33:111][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Programs/Git/cmd/git.exe version
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.33:114][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
-[2021.08.07-18.15.33:115][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2021.08.07-18.15.33:115][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
-[2021.08.07-18.15.33:115][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.172
-[2021.08.07-18.15.33:115][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.08.07-18.15.33:115][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
-[2021.08.07-18.15.33:115][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.08.07-18.15.33:115][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
-[2021.08.07-18.15.33:115][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.000
-[2021.08.07-18.15.33:116][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.173
-[2021.08.07-18.15.33:213][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.08.07-18.15.33:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.08.07-18.15.33:223][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.08.07-18.15.33:229][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.08.07-18.15.33:241][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3601 classes and 859 folders.
-[2021.08.07-18.15.33:242][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2021.08.07-18.15.33:244][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.08.07-18.15.33:244][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:244][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.08.07-18.15.33:244][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
-[2021.08.07-18.15.33:244][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2021.08.07-18.15.33:244][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:244][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2021.08.07-18.15.33:244][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
-[2021.08.07-18.15.33:245][  0]LogPakFile: PakFile PrimaryIndexSize=191
-[2021.08.07-18.15.33:245][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:245][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
-[2021.08.07-18.15.33:245][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
-[2021.08.07-18.15.33:245][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.08.07-18.15.33:245][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:245][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.08.07-18.15.33:245][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
-[2021.08.07-18.15.33:246][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2021.08.07-18.15.33:246][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:246][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2021.08.07-18.15.33:246][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
-[2021.08.07-18.15.33:246][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2021.08.07-18.15.33:246][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:246][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2021.08.07-18.15.33:246][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
-[2021.08.07-18.15.33:247][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2021.08.07-18.15.33:247][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:247][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2021.08.07-18.15.33:247][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
-[2021.08.07-18.15.33:247][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2021.08.07-18.15.33:247][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:247][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2021.08.07-18.15.33:247][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
-[2021.08.07-18.15.33:248][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.08.07-18.15.33:248][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:248][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.08.07-18.15.33:248][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
-[2021.08.07-18.15.33:248][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2021.08.07-18.15.33:248][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:248][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2021.08.07-18.15.33:248][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
-[2021.08.07-18.15.33:248][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2021.08.07-18.15.33:248][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:248][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2021.08.07-18.15.33:248][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
-[2021.08.07-18.15.33:249][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.08.07-18.15.33:249][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:249][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.08.07-18.15.33:249][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
-[2021.08.07-18.15.33:250][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.08.07-18.15.33:250][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:250][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.08.07-18.15.33:250][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
-[2021.08.07-18.15.33:250][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.08.07-18.15.33:250][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:250][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.08.07-18.15.33:250][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
-[2021.08.07-18.15.33:250][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2021.08.07-18.15.33:250][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:250][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2021.08.07-18.15.33:250][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
-[2021.08.07-18.15.33:251][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.08.07-18.15.33:251][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.08.07-18.15.33:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
-[2021.08.07-18.15.33:251][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2021.08.07-18.15.33:251][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2021.08.07-18.15.33:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
-[2021.08.07-18.15.33:252][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.08.07-18.15.33:252][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:252][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.08.07-18.15.33:252][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
-[2021.08.07-18.15.33:252][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.08.07-18.15.33:252][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:252][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.08.07-18.15.33:252][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
-[2021.08.07-18.15.33:253][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.08.07-18.15.33:253][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.08.07-18.15.33:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
-[2021.08.07-18.15.33:253][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.08.07-18.15.33:253][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.08.07-18.15.33:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
-[2021.08.07-18.15.33:254][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.08.07-18.15.33:254][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.08.07-18.15.33:254][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
-[2021.08.07-18.15.33:254][  0]LogPakFile: PakFile PrimaryIndexSize=186
-[2021.08.07-18.15.33:254][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
-[2021.08.07-18.15.33:254][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
-[2021.08.07-18.15.33:255][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.08.07-18.15.33:255][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.08.07-18.15.33:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
-[2021.08.07-18.15.33:255][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.08.07-18.15.33:255][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.08.07-18.15.33:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
-[2021.08.07-18.15.33:255][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2021.08.07-18.15.33:255][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.08.07-18.15.33:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2021.08.07-18.15.33:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
-[2021.08.07-18.15.33:299][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2021.08.07-18.15.33:302][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
-[2021.08.07-18.15.33:388][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2021.08.07-18.15.33:389][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2021.08.07-18.15.33:394][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2021.08.07-18.15.33:491][  0]LogRenderer: Reallocating scene render targets to support 1108x416 Format 10 NumSamples 1 (Frame:1).
-[2021.08.07-18.15.33:589][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2021.08.07-18.15.33:589][  0]LogLoad: (Engine Initialization) Total time: 5.65 seconds
-[2021.08.07-18.15.33:589][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2021.08.07-18.15.33:589][  0]LogInit: First time updating LLM stats...
-[2021.08.07-18.15.33:641][  0]LogAssetRegistry: Asset discovery search completed in 2.7671 seconds
-[2021.08.07-18.15.33:643][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
-[2021.08.07-18.15.33:667][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2021.08.07-18.15.33:716][  3]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.08.07-18.15.35:767][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
-[2021.08.07-18.15.35:774][126]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.08.07-18.15.36:006][126]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Mansion.Mansion
-[2021.08.07-18.15.36:006][126]Cmd: MAP LOAD FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.08.07-18.15.36:006][126]LightingResults: New page: Lighting Build
-[2021.08.07-18.15.36:007][126]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0006 seconds. Added 6 classes and 0 folders.
-[2021.08.07-18.15.36:007][126]LoadErrors: New page: Loading map: Mansion.umap
-[2021.08.07-18.15.36:007][126]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2021.08.07-18.15.36:007][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.08.07-18.15.36:007][126]MapCheck: New page: Map Check
-[2021.08.07-18.15.36:007][126]LightingResults: New page: Lighting Build
-[2021.08.07-18.15.36:014][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
-[2021.08.07-18.15.36:014][126]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mansion'.
-[2021.08.07-18.15.36:083][126]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.08.07-18.15.36:083][126]LogAIModule: Creating AISystem for world Mansion
-[2021.08.07-18.15.36:093][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
-[2021.08.07-18.15.36:097][126]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.08.07-18.15.36:097][126]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
-[2021.08.07-18.15.36:097][126]LogFileHelpers: Loading map 'Mansion' took 0.092
-[2021.08.07-18.15.42:869][529]LogRenderer: Reallocating scene render targets to support 1108x424 Format 10 NumSamples 1 (Frame:437).
-[2021.08.07-18.15.42:895][530]LogRenderer: Reallocating scene render targets to support 1108x432 Format 10 NumSamples 1 (Frame:439).
-[2021.08.07-18.15.42:929][531]LogRenderer: Reallocating scene render targets to support 1108x456 Format 10 NumSamples 1 (Frame:441).
-[2021.08.07-18.15.42:961][532]LogRenderer: Reallocating scene render targets to support 1108x496 Format 10 NumSamples 1 (Frame:443).
-[2021.08.07-18.15.42:989][533]LogRenderer: Reallocating scene render targets to support 1108x540 Format 10 NumSamples 1 (Frame:445).
-[2021.08.07-18.15.43:014][534]LogRenderer: Reallocating scene render targets to support 1108x576 Format 10 NumSamples 1 (Frame:447).
-[2021.08.07-18.15.43:039][535]LogRenderer: Reallocating scene render targets to support 1108x608 Format 10 NumSamples 1 (Frame:449).
-[2021.08.07-18.15.43:065][536]LogRenderer: Reallocating scene render targets to support 1108x644 Format 10 NumSamples 1 (Frame:451).
-[2021.08.07-18.15.43:090][537]LogRenderer: Reallocating scene render targets to support 1108x668 Format 10 NumSamples 1 (Frame:453).
-[2021.08.07-18.15.43:116][538]LogRenderer: Reallocating scene render targets to support 1108x684 Format 10 NumSamples 1 (Frame:455).
-[2021.08.07-18.15.43:142][539]LogRenderer: Reallocating scene render targets to support 1108x696 Format 10 NumSamples 1 (Frame:457).
-[2021.08.07-18.15.43:166][540]LogRenderer: Reallocating scene render targets to support 1108x708 Format 10 NumSamples 1 (Frame:459).
-[2021.08.07-18.15.43:193][541]LogRenderer: Reallocating scene render targets to support 1108x712 Format 10 NumSamples 1 (Frame:461).
-[2021.08.07-18.15.43:220][542]LogRenderer: Reallocating scene render targets to support 1108x716 Format 10 NumSamples 1 (Frame:463).
-[2021.08.07-18.15.43:247][543]LogRenderer: Reallocating scene render targets to support 1108x728 Format 10 NumSamples 1 (Frame:465).
-[2021.08.07-18.15.43:269][544]LogRenderer: Reallocating scene render targets to support 1108x732 Format 10 NumSamples 1 (Frame:467).
-[2021.08.07-18.15.43:299][545]LogRenderer: Reallocating scene render targets to support 1108x736 Format 10 NumSamples 1 (Frame:469).
-[2021.08.07-18.15.45:216][656]LogEditorViewport: Clicking on Actor (LMB): Brush (ExteriorWallFloor1)
-[2021.08.07-18.15.48:789][865]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2021.08.07-18.15.50:668][972]LogEditorViewport: Clicking on Actor (context menu): Brush (ExteriorWallFloor1)
-[2021.08.07-18.15.59:655][492]LogGeometryMode: Warning: Unable to find HouseFloorPt2 Brush(s) in new BSP
-[2021.08.07-18.15.59:655][492]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.16.01:992][626]LogGeometryMode: Warning: Unable to find ExteriorWallFloor2_54 Brush(s) in new BSP
-[2021.08.07-18.16.01:993][626]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.16.07:531][935]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
-[2021.08.07-18.16.09:651][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.08.07-18.16.09:655][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2021.08.07-18.16.09:707][ 58]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion8A8C70F041EFF47FEB69B7AE0AD8D9A6.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
-[2021.08.07-18.16.09:722][ 58]AssetCheck: New page: Asset Save: Mansion
-[2021.08.07-18.16.09:722][ 58]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
-[2021.08.07-18.16.18:396][560]LogGeometryMode: Warning: Unable to find HouseFloorPt2 Brush(s) in new BSP
-[2021.08.07-18.16.18:396][560]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.16.22:915][826]LogGeometryMode: Warning: Unable to find ExteriorWallFloor1 Brush(s) in new BSP
-[2021.08.07-18.16.22:915][826]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.16.28:165][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.08.07-18.16.28:170][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
-[2021.08.07-18.16.28:216][121]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionA79430C44779E3759C6412B571465030.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
-[2021.08.07-18.16.28:228][121]AssetCheck: New page: Asset Save: Mansion
-[2021.08.07-18.16.28:228][121]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
-[2021.08.07-18.16.29:347][185]Cmd: EDCALLBACK SURFPROPS
-[2021.08.07-18.16.30:924][277]LogEditorViewport: Clicking on Actor (double click): Brush (ExteriorWallFloor1)
-[2021.08.07-18.16.35:676][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.08.07-18.16.35:681][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2021.08.07-18.16.35:729][552]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionE49AE5D646611204C8F366B2E9010FB4.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
-[2021.08.07-18.16.35:743][552]AssetCheck: New page: Asset Save: Mansion
-[2021.08.07-18.16.35:743][552]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
-[2021.08.07-18.16.36:724][610]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
-[2021.08.07-18.18.07:753][ 57]Cmd: BRUSH ADD SELECTNEWBRUSH
-[2021.08.07-18.18.20:197][797]Cmd: DELETE
-[2021.08.07-18.18.20:197][797]Cmd: ACTOR DELETE
-[2021.08.07-18.18.20:203][797]LogEditorActor: Deleted Actor: Brush
-[2021.08.07-18.18.20:208][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
-[2021.08.07-18.18.20:238][797]LogEditorActor: Deleted 1 Actors (0.041 secs)
-[2021.08.07-18.18.22:153][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.08.07-18.18.22:157][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
-[2021.08.07-18.18.22:203][911]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionF5C84F2747FBD87946E0839363C85790.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
-[2021.08.07-18.18.22:217][911]AssetCheck: New page: Asset Save: Mansion
-[2021.08.07-18.18.22:217][911]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
-[2021.08.07-18.18.41:459][ 51]LogGeometryMode: Warning: Unable to find Floor Brush(s) in new BSP
-[2021.08.07-18.18.41:459][ 51]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.18.43:256][156]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
-[2021.08.07-18.18.50:822][603]LogGeometryMode: Warning: Unable to find Floor Brush(s) in new BSP
-[2021.08.07-18.18.50:822][603]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.19.18:839][268]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
-[2021.08.07-18.19.18:839][268]LogGeometryMode: Warning: Unable to resolve BoxBrush4 Brush in new BSP, see above
-[2021.08.07-18.19.18:839][268]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.19.20:383][356]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
-[2021.08.07-18.19.21:542][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.08.07-18.19.21:548][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
-[2021.08.07-18.19.21:595][423]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion7605266C44D0DAC8FCA6C38C88BD6154.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
-[2021.08.07-18.19.21:610][423]AssetCheck: New page: Asset Save: Mansion
-[2021.08.07-18.19.21:610][423]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
-[2021.08.07-18.19.55:677][466]Cmd: DELETE
-[2021.08.07-18.19.55:721][466]Cmd: ACTOR DELETE
-[2021.08.07-18.19.55:729][466]LogEditorActor: Deleted Actor: Brush
-[2021.08.07-18.19.55:735][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
-[2021.08.07-18.19.55:765][466]LogEditorActor: Deleted 1 Actors (0.044 secs)
-[2021.08.07-18.19.56:804][526]Cmd: DELETE
-[2021.08.07-18.19.56:847][526]Cmd: ACTOR DELETE
-[2021.08.07-18.19.56:853][526]LogEditorActor: Deleted Actor: Brush
-[2021.08.07-18.19.56:857][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
-[2021.08.07-18.19.56:886][526]LogEditorActor: Deleted 1 Actors (0.039 secs)
-[2021.08.07-18.20.03:266][908]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin_Arms_Skeleton)
-[2021.08.07-18.20.04:093][955]Cmd: DELETE
-[2021.08.07-18.20.04:136][955]Cmd: ACTOR DELETE
-[2021.08.07-18.20.04:142][955]LogEditorActor: Deleted Actor: SkeletalMeshActor
-[2021.08.07-18.20.04:146][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
-[2021.08.07-18.20.04:147][955]LogEditorActor: Deleted 1 Actors (0.011 secs)
-[2021.08.07-18.20.05:376][ 27]Cmd: DELETE
-[2021.08.07-18.20.05:418][ 27]Cmd: ACTOR DELETE
-[2021.08.07-18.20.05:426][ 27]LogEditorActor: Deleted Actor: Brush
-[2021.08.07-18.20.05:426][ 27]LogEditorActor: Deleted Actor: Brush
-[2021.08.07-18.20.05:430][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
-[2021.08.07-18.20.05:459][ 27]LogEditorActor: Deleted 2 Actors (0.041 secs)
-[2021.08.07-18.20.07:528][149]Cmd: DELETE
-[2021.08.07-18.20.07:569][149]Cmd: ACTOR DELETE
-[2021.08.07-18.20.07:576][149]LogEditorActor: Deleted Actor: Brush
-[2021.08.07-18.20.07:580][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
-[2021.08.07-18.20.07:619][149]LogEditorActor: Deleted 1 Actors (0.049 secs)
-[2021.08.07-18.20.11:701][392]Cmd: DELETE
-[2021.08.07-18.20.11:742][392]Cmd: ACTOR DELETE
-[2021.08.07-18.20.11:749][392]LogEditorActor: Deleted Actor: Brush
-[2021.08.07-18.20.11:754][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
-[2021.08.07-18.20.11:782][392]LogEditorActor: Deleted 1 Actors (0.040 secs)
-[2021.08.07-18.20.23:354][ 83]Cmd: DELETE
-[2021.08.07-18.20.23:395][ 83]Cmd: ACTOR DELETE
-[2021.08.07-18.20.23:403][ 83]LogEditorActor: Deleted Actor: Brush
-[2021.08.07-18.20.23:403][ 83]LogEditorActor: Deleted Actor: Brush
-[2021.08.07-18.20.23:408][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
-[2021.08.07-18.20.23:434][ 83]LogEditorActor: Deleted 2 Actors (0.039 secs)
-[2021.08.07-18.21.01:501][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.08.07-18.21.01:508][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
-[2021.08.07-18.21.01:551][336]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionEAC425E149FA01E6B9A3CBA97ABD99E2.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
-[2021.08.07-18.21.01:572][336]AssetCheck: New page: Asset Save: Mansion
-[2021.08.07-18.21.01:572][336]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
-[2021.08.07-18.21.03:447][449]LogTemp: Repeating last play command: Selected Viewport
-[2021.08.07-18.21.03:452][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2021.08.07-18.21.03:452][449]PIE: New page: PIE session: Mansion (Aug 7, 2021, 10:21:03 AM)
-[2021.08.07-18.21.03:453][449]LogOnline: OSS: Creating online subsystem instance for: NULL
-[2021.08.07-18.21.03:454][449]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
-[2021.08.07-18.21.03:454][449]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
-[2021.08.07-18.21.03:476][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022284s)
-[2021.08.07-18.21.03:477][449]LogAIModule: Creating AISystem for world Mansion
-[2021.08.07-18.21.03:478][449]LogPlayLevel: PIE: World Init took: (0.001194s)
-[2021.08.07-18.21.03:478][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.023650s)
-[2021.08.07-18.21.03:488][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
-[2021.08.07-18.21.03:490][449]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
-[2021.08.07-18.21.03:490][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.08.07-18.21.03:490][449]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.08.07-18.21.03:490][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.08.07-18.21.03:490][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.08.07-18.21.03:490][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.08.07-18.21.03:490][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.08.07-18.21.03:490][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.08.07-18.21.03:490][449]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.08.07-18.21.03:491][449]LogAudio: Display: Using built-in audio occlusion.
-[2021.08.07-18.21.03:491][449]LogAudioMixer: Display: Initializing audio mixer.
-[2021.08.07-18.21.03:495][449]LogAudioMixer: Display: 0: FrontLeft
-[2021.08.07-18.21.03:495][449]LogAudioMixer: Display: 1: FrontRight
-[2021.08.07-18.21.03:522][449]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
-[2021.08.07-18.21.03:522][449]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.08.07-18.21.03:522][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.08.07-18.21.03:522][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.08.07-18.21.03:522][449]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.08.07-18.21.03:522][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.08.07-18.21.03:522][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.08.07-18.21.03:536][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.08.07-18.21.03:536][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.08.07-18.21.03:536][449]LogInit: FAudioDevice initialized.
-[2021.08.07-18.21.03:536][449]LogAudio: Display: Audio Device (ID: 2) registered with world 'Mansion'.
-[2021.08.07-18.21.03:545][449]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2021.08.07-18.21.03:548][449]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-14.21.03
-[2021.08.07-18.21.03:548][449]LogWorld: Bringing up level for play took: 0.001943
-[2021.08.07-18.21.03:548][449]LogOnline: OSS: Creating online subsystem instance for: :Context_3
-[2021.08.07-18.21.03:551][449]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
-[2021.08.07-18.21.03:551][449]PIE: Server logged in
-[2021.08.07-18.21.03:552][449]PIE: Play in editor total start time 0.102 seconds.
-[2021.08.07-18.21.26:238][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.08.07-18.21.26:238][805]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mansion
-[2021.08.07-18.21.26:238][805]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
-[2021.08.07-18.21.26:238][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.08.07-18.21.26:246][805]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2021.08.07-18.21.26:261][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.08.07-18.21.26:265][805]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.08.07-18.21.26:266][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.08.07-18.21.26:267][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.08.07-18.21.26:314][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.08.07-18.21.26:316][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
-[2021.08.07-18.21.26:345][806]LogPlayLevel: Display: Destroying online subsystem :Context_3
-[2021.08.07-18.21.33:031][984]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
-[2021.08.07-18.22.00:059][587]LogGeometryMode: Warning: Unable to find HouseFloor Brush(s) in new BSP
-[2021.08.07-18.22.00:059][587]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.22.01:843][690]LogGeometryMode: Warning: Unable to find ExteriorWallFloor1 Brush(s) in new BSP
-[2021.08.07-18.22.01:843][690]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.22.03:005][757]LogGeometryMode: Warning: Unable to find HouseFloor Brush(s) in new BSP
-[2021.08.07-18.22.03:005][757]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.22.03:417][780]LogEditorViewport: Clicking on Actor (double click): Brush (HouseFloor)
-[2021.08.07-18.22.14:809][455]LogGeometryMode: Warning: Unable to find ExteriorWallFloor1 Brush(s) in new BSP
-[2021.08.07-18.22.14:809][455]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.22.25:930][ 92]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
-[2021.08.07-18.22.52:908][706]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
-[2021.08.07-18.22.54:708][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.08.07-18.22.54:713][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
-[2021.08.07-18.22.54:756][811]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion7B84A5224E0B2EEA78D30CABC4F8160A.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
-[2021.08.07-18.22.54:772][811]AssetCheck: New page: Asset Save: Mansion
-[2021.08.07-18.22.54:772][811]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
-[2021.08.07-18.23.41:530][592]LogGeometryMode: Warning: Unable to find ExteriorWallFloor1 Brush(s) in new BSP
-[2021.08.07-18.23.41:530][592]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
-[2021.08.07-18.23.45:532][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
-[2021.08.07-18.23.50:468][111]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
-[2021.08.07-18.24.40:144][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.08.07-18.24.40:149][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
-[2021.08.07-18.24.40:191][ 88]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionF760F7F9436D543A094C2C9883971ED1.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
-[2021.08.07-18.24.40:204][ 88]AssetCheck: New page: Asset Save: Mansion
-[2021.08.07-18.24.40:205][ 88]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
-[2021.08.07-18.24.40:637][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.08.07-18.24.40:642][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
-[2021.08.07-18.24.40:682][114]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion83B2F75A4138CE690A5953AA910939DE.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
-[2021.08.07-18.24.40:694][114]AssetCheck: New page: Asset Save: Mansion
-[2021.08.07-18.24.40:694][114]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
+[2021.08.07-19.44.51:700][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.07-19.44.51:700][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
+[2021.08.07-19.44.51:700][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
+[2021.08.07-19.44.51:712][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.07-19.44.51:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.07-19.44.51:713][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.07-19.44.51:713][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.07-19.44.51:713][  0]LogHAL: Display: Platform has ~ 16 GB [16991240192 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.07-19.44.51:713][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.07-19.44.51:713][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.07-19.44.51:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Scalability.ini]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.07-19.44.51:714][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.07-19.44.51:715][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.07-19.44.51:715][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.07-19.44.51:715][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.07-19.44.51:715][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Engine.ini]
+[2021.08.07-19.44.51:715][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Config/Windows/Editor.ini]
+[2021.08.07-19.44.51:715][  0]LogInit: Computer: MSI
+[2021.08.07-19.44.51:715][  0]LogInit: User: cthoi
+[2021.08.07-19.44.51:715][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.07-19.44.51:715][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.07-19.44.51:715][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.08.07-19.44.51:715][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.07-19.44.51:715][  0]LogMemory: Process Physical Memory: 138.59 MB used, 138.59 MB peak
+[2021.08.07-19.44.51:715][  0]LogMemory: Process Virtual Memory: 112.12 MB used, 112.12 MB peak
+[2021.08.07-19.44.51:715][  0]LogMemory: Physical Memory: 9221.87 MB used,  6982.24 MB free, 16204.11 MB total
+[2021.08.07-19.44.51:715][  0]LogMemory: Virtual Memory: 134212840.00 MB used,  4884.15 MB free, 134217728.00 MB total
+[2021.08.07-19.44.51:738][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.07-19.44.51:929][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.07-19.44.51:929][  0]LogInit: Using OS detected language (en-US).
+[2021.08.07-19.44.51:930][  0]LogInit: Using OS detected locale (en-US).
+[2021.08.07-19.44.51:934][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.07-19.44.52:146][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.07-19.44.52:167][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.07-19.44.52:199][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.07-19.44.52:199][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.07-19.44.54:223][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2021.08.07-19.44.54:223][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.07-19.44.54:223][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.07-19.44.54:223][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.07-19.44.54:850][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Super' (Feature Level 11_0)
+[2021.08.07-19.44.54:850][  0]LogD3D11RHI:       8010/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.07-19.44.54:877][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.08.07-19.44.54:877][  0]LogD3D11RHI:       128/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.08.07-19.44.54:879][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.07-19.44.54:879][  0]LogD3D11RHI:       0/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.07-19.44.54:879][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.07-19.44.54:885][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.07-19.44.54:885][  0]LogD3D11RHI:     GPU DeviceId: 0x1e93 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.07-19.44.54:885][  0]LogWindows: EnumDisplayDevices:
+[2021.08.07-19.44.54:885][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.08.07-19.44.54:886][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.07-19.44.54:886][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.07-19.44.54:886][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:1)
+[2021.08.07-19.44.54:886][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.08.07-19.44.54:886][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.08.07-19.44.54:886][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.08.07-19.44.54:886][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.07-19.44.54:886][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Super
+[2021.08.07-19.44.54:887][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.08.07-19.44.54:887][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.08.07-19.44.54:887][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.08.07-19.44.54:947][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.07-19.44.54:948][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.07-19.44.54:948][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.07-19.44.54:961][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.07-19.44.54:963][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.07-19.44.55:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.07-19.44.55:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.07-19.44.55:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.07-19.44.55:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.07-19.44.55:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.07-19.44.55:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.07-19.44.55:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.07-19.44.55:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.07-19.44.55:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.07-19.44.55:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.07-19.44.55:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.07-19.44.55:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.07-19.44.55:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.07-19.44.55:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.07-19.44.55:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.07-19.44.55:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.07-19.44.55:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.07-19.44.55:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.07-19.44.55:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.07-19.44.55:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.07-19.44.55:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.07-19.44.55:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.07-19.44.55:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.07-19.44.55:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.07-19.44.55:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.07-19.44.55:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.07-19.44.55:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.07-19.44.55:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.07-19.44.55:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.07-19.44.55:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.07-19.44.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.07-19.44.55:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.07-19.44.55:423][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.07-19.44.55:466][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.07-19.44.55:583][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.07-19.44.55:583][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Intermediate/Shaders/WorkingDirectory/14464/).
+[2021.08.07-19.44.55:583][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cthoi/AppData/Local/Temp/UnrealShaderWorkingDir/7C4B3A734DACCB712022678B2A5A1370/'.
+[2021.08.07-19.44.55:583][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.07-19.44.55:584][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.07-19.44.58:099][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.07-19.44.58:146][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/cthoi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.07-19.44.58:146][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cthoi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.07-19.44.58:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.07-19.44.58:146][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.07-19.44.58:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.07-19.44.58:146][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.07-19.44.58:162][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.07-19.44.58:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.07-19.44.58:163][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.07-19.44.58:170][  0]LogDerivedDataCache: Speed tests for C:/Users/cthoi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.07-19.44.58:170][  0]LogDerivedDataCache: Display: Performance to C:/Users/cthoi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=324.42MBs, RandomWriteSpeed=204.97MBs. Assigned SpeedClass 'Local'
+[2021.08.07-19.44.58:171][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cthoi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.07-19.44.58:171][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.07-19.44.58:171][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.07-19.44.58:213][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.07-19.44.58:228][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.07-19.44.58:247][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.08.07-19.44.58:472][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.07-19.44.58:472][  0]LogInit: Active device profile: [00000138905A1900][00000138913E8DC0 49] Windows
+[2021.08.07-19.44.58:472][  0]LogInit: Profiles: [00000138905A1900][00000138913E8DC0 49] Windows, [0000013890583900][0000013891408F40 49] WindowsNoEditor, [00000138905A3300][000001389140D0C0 49] WindowsServer, [0000013890581000][0000013891411240 49] WindowsClient, [00000138905A1100][00000138914153C0 49] IOS, [0000013890583600][0000013891439540 49] iPadAir, [00000138905A3200][00000138913ED680 49] iPadAir2, [0000013891936600][00000138914418C0 49] IPadPro, [0000013891936700][000001389143D900 49] iPadAir3, [00000138905A3700][0000013891449A80 49] iPadAir4, [0000013891937C00][000001389144DC00 49] iPadMini2, [00000138905A1F00][00000138914500C0 49] iPadMini3, [0000013891935B00][0000013891454240 49] iPadMini4, [00000138905A1C00][00000138914583C0 49] iPadMini5, [0000013890579F00][0000013891460680 49] iPhone6, [000001389057A000][000001389145C6C0 49] iPodTouch6, [0000013890583700][0000013891468980 49] iPhone7, [0000013890583800][00000138914649C0 49] iPodTouch7, [000001389057B600][000001389146CB40 49] iPhone5S, [0000013890581800][0000013891470CC0 49] iPhone6Plus, [0000013890579900][0000013891474E40 49] iPhone6S, [0000013890583E00][0000013891478FC0 49] iPhone6SPlus, [0000013890578C00][000001389147D140 49] iPhone7Plus, [0000013890582100][00000138914812C0 49] iPhoneSE, [0000013890579200][0000013891485440 49] iPhone8, [0000013890583400][00000138914895C0 49] iPhone8Plus, [0000013890578700][0000013891445700 49] iPhoneX, [0000013890581200][000001389148D840 49] iPhoneXS, [000001389057A500][0000013891491980 49] iPhoneXSMax, [0000013890580700][0000013891495AC0 49] iPhoneXR, [000001389057B000][000001389149DC40 49] iPhone11, [0000013890582D00][00000138914A0100 49] iPhone11Pro, [0000013890579800][00000138914A4280 49] iPhone11ProMax, [0000013890582300][00000138914A8400 49] iPhoneSE2, [000001389057BC00][00000138914AC580 49] iPhone12Mini, [0000013890582200][00000138914B0700 49] iPhone12, [00000138905A3A00][00000138914B4880 49] iPhone12Pro, [0000013890579700][00000138914B8A00 49] iPhone12ProMax, [00000138905A3C00][00000138914BCB80 49] iPadPro105, [0000013890578E00][00000138914C0D00 49] iPadPro129, [00000138905A2D00][00000138914C4E80 49] iPadPro97, [000001389057AC00][00000138914C9000 49] iPadPro2_129, [0000013890581700][00000138914CD180 49] iPad5, [000001389057B800][00000138914D1300 49] iPad6, [0000013890581A00][00000138914D5480 49] iPad7, [000001389057BB00][00000138914D9600 49] iPad8, [0000013890580C00][0000013891499740 49] iPadPro11, [0000013890578B00][00000138914DD880 49] iPadPro2_11, [0000013890583300][00000138914E19C0 49] iPadPro3_129, [0000013890578100][00000138914E5B00 49] iPadPro4_129, [0000013890583500][00000138914EDC80 49] AppleTV, [0000013890579100][00000138914F0140 49] AppleTV4K, [0000013890580100][00000138914F42C0 49] TVOS, [0000013890578500][00000138914F8440 49] Mac, [0000013890583000][00000138914FC5C0 49] MacClient, [000001389057BF00][0000013891500740 49] MacNoEditor, [0000013890583D00][00000138915048C0 49] MacServer, [000001389057B100][0000013891508A40 49] Linux, [0000013890581D00][000001389150CBC0 49] LinuxAArch64, [000001389057A100][0000013891510D40 49] LinuxNoEditor, [0000013890582700][0000013891514EC0 49] LinuxAArch64NoEditor, [0000013890579400][0000013891519040 49] LinuxClient, [0000013890580200][000001389151D1C0 49] LinuxAArch64Client, [000001389057A600][0000013891521340 49] LinuxServer, [0000013890582000][00000138915254C0 49] LinuxAArch64Server, [000001389057AD00][0000013891529640 49] Android, [0000013890580E00][000001389152D7C0 49] Android_Low, [0000013890579500][00000138914E9900 49] Android_Mid, [0000013890582B00][0000013891531A40 49] Android_High, [000001389057A700][0000013891535B80 49] Android_Default, [0000013890581900][000001389153DD00 49] Android_Adreno4xx, [0000013890578A00][00000138915401C0 49] Android_Adreno5xx_Low, [0000013890581100][0000013891544340 49] Android_Adreno5xx, [0000013890578800][00000138915484C0 49] Android_Adreno6xx, [0000013890583100][000001389154C640 49] Android_Adreno6xx_Vulkan, [000001389057A800][00000138915507C0 49] Android_Mali_T6xx, [0000013890581600][0000013891554940 49] Android_Mali_T7xx, [000001389057B500][0000013891558AC0 49] Android_Mali_T8xx, [0000013890582800][000001389155CC40 49] Android_Mali_G71, [0000013890578F00][0000013892570DC0 49] Android_Mali_G72, [0000013890580D00][0000013892574F40 49] Android_Mali_G72_Vulkan, [000001389057AF00][00000138925790C0 49] Android_Mali_G76, [0000013890581300][000001389257D240 49] Android_Mali_G76_Vulkan, [0000013890579B00][00000138925813C0 49] Android_Mali_G77, [0000013891936E00][0000013892585540 49] Android_Mali_G77_Vulkan, [00000138905A3900][00000138925896C0 49] Android_Vulkan_SM5, [0000013891934800][000001389258D840 49] Android_PowerVR_G6xxx, [00000138905A3400][0000013891539980 49] Android_PowerVR_GT7xxx, [0000013891934E00][0000013892591AC0 49] Android_PowerVR_GE8xxx, [00000138905A1300][0000013892595C00 49] Android_PowerVR_GM9xxx, [0000013891934900][000001389259C0C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000138905A1E00][00000138925A0240 49] Android_TegraK1, [0000013891934C00][00000138925A43C0 49] Android_Unknown_Vulkan, [00000138905A0200][00000138925A8540 49] Lumin, [0000013891935000][00000138925AC6C0 49] Lumin_Desktop, [00000138905A1700][00000138925B0840 49] HoloLens, 
+[2021.08.07-19.44.58:629][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.07-19.44.58:629][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.07-19.44.58:629][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.07-19.44.58:629][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.07-19.44.58:629][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.07-19.44.58:669][  0]LogNetVersion: GhostGame 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 594247616)
+[2021.08.07-19.44.59:596][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.07-19.44.59:635][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.038514 seconds
+[2021.08.07-19.44.59:639][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.07-19.44.59:639][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.07-19.44.59:639][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.07-19.45.00:189][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.07-19.45.00:193][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.07-19.45.00:390][  0]SourceControl: Source control is disabled
+[2021.08.07-19.45.00:390][  0]SourceControl: Source control is disabled
+[2021.08.07-19.45.00:393][  0]SourceControl: Source control is disabled
+[2021.08.07-19.45.00:398][  0]SourceControl: Source control is disabled
+[2021.08.07-19.45.00:401][  0]LogUProjectInfo: Found projects:
+[2021.08.07-19.45.00:404][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.07-19.45.00:404][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.07-19.45.00:409][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.00:409][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.08.07-19.45.00:409][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.00:409][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.08.07-19.45.00:410][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.00:410][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.08.07-19.45.00:410][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.00:410][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.08.07-19.45.00:410][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.00:410][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.08.07-19.45.00:410][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.00:410][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.08.07-19.45.00:410][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.00:410][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.08.07-19.45.00:567][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.07-19.45.00:581][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.07-19.45.00:581][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.07-19.45.00:619][  0]LogCollectionManager: Loaded 0 collections in 0.001226 seconds
+[2021.08.07-19.45.00:651][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Collections/' took 0.00s
+[2021.08.07-19.45.00:651][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Developers/cthoi/Collections/' took 0.00s
+[2021.08.07-19.45.00:651][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Collections/' took 0.00s
+[2021.08.07-19.45.00:651][  0]LogOcInput: OculusInput pre-init called
+[2021.08.07-19.45.00:661][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.07-19.45.00:661][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.07-19.45.00:716][  0]LogEngine: Initializing Engine...
+[2021.08.07-19.45.00:717][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2021.08.07-19.45.00:717][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.07-19.45.00:718][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.07-19.45.00:965][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.07-19.45.00:972][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.07-19.45.00:972][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.07-19.45.00:975][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.07-19.45.00:975][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.07-19.45.00:975][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-19.45.00:975][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-19.45.00:975][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-19.45.00:975][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-19.45.00:975][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-19.45.00:975][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-19.45.00:975][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-19.45.00:975][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-19.45.00:975][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-19.45.00:975][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-19.45.01:017][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-19.45.01:017][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-19.45.01:098][  0]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.08.07-19.45.01:099][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-19.45.01:117][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-19.45.01:118][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-19.45.01:118][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-19.45.01:118][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-19.45.01:118][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-19.45.01:119][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-19.45.01:119][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-19.45.01:119][  0]LogInit: FAudioDevice initialized.
+[2021.08.07-19.45.01:119][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.07-19.45.01:120][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.07-19.45.01:159][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/cthoi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.07-19.45.01:159][  0]LogInit: Texture streaming: Enabled
+[2021.08.07-19.45.01:169][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.07-19.45.01:171][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.07-19.45.01:171][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.07-19.45.01:174][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.07-19.45.01:194][  0]LogInit: Transaction tracking system initialized
+[2021.08.07-19.45.01:212][  0]BlueprintLog: New page: Editor Load
+[2021.08.07-19.45.01:274][  0]LocalizationService: Localization service is disabled
+[2021.08.07-19.45.01:293][  0]TimingProfiler: Initialize
+[2021.08.07-19.45.01:293][  0]TimingProfiler: OnSessionChanged
+[2021.08.07-19.45.01:293][  0]LoadingProfiler: Initialize
+[2021.08.07-19.45.01:293][  0]LoadingProfiler: OnSessionChanged
+[2021.08.07-19.45.01:293][  0]NetworkingProfiler: Initialize
+[2021.08.07-19.45.01:293][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.07-19.45.01:293][  0]MemoryProfiler: Initialize
+[2021.08.07-19.45.01:293][  0]MemoryProfiler: OnSessionChanged
+[2021.08.07-19.45.01:340][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.07-19.45.01:340][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.07-19.45.01:670][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.07-19.45.01:670][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.07-19.45.01:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/' took 0.00s
+[2021.08.07-19.45.01:946][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: URL: C:\Users\cthoi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.07-19.45.01:949][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.08.07-19.45.01:949][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.869
+[2021.08.07-19.45.01:949][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.07-19.45.01:950][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.08.07-19.45.01:950][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.07-19.45.01:950][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2021.08.07-19.45.01:950][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.001
+[2021.08.07-19.45.01:951][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.871
+[2021.08.07-19.45.02:059][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-19.45.02:064][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-19.45.02:068][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-19.45.02:073][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-19.45.02:088][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3601 classes and 859 folders.
+[2021.08.07-19.45.02:091][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.07-19.45.02:099][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.07-19.45.02:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.07-19.45.02:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.08.07-19.45.02:105][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.07-19.45.02:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.07-19.45.02:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.07-19.45.02:109][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.07-19.45.02:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:109][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.07-19.45.02:109][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.07-19.45.02:113][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.07-19.45.02:113][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:113][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.07-19.45.02:113][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.07-19.45.02:118][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.07-19.45.02:118][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:118][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.07-19.45.02:118][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.07-19.45.02:124][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.07-19.45.02:124][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:124][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.07-19.45.02:124][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.07-19.45.02:129][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.07-19.45.02:129][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:129][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.07-19.45.02:130][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.07-19.45.02:134][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.07-19.45.02:134][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:134][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.07-19.45.02:134][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.07-19.45.02:140][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.07-19.45.02:140][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:140][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.07-19.45.02:140][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.08.07-19.45.02:145][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.07-19.45.02:145][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:145][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.07-19.45.02:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.08.07-19.45.02:149][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.07-19.45.02:149][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.07-19.45.02:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.08.07-19.45.02:153][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.07-19.45.02:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.07-19.45.02:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.08.07-19.45.02:159][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.07-19.45.02:159][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:159][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.07-19.45.02:159][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.08.07-19.45.02:163][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.07-19.45.02:163][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:163][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.07-19.45.02:163][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.08.07-19.45.02:168][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.07-19.45.02:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.07-19.45.02:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.08.07-19.45.02:173][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.07-19.45.02:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.07-19.45.02:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.08.07-19.45.02:177][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.07-19.45.02:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.07-19.45.02:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.08.07-19.45.02:182][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.07-19.45.02:182][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:182][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.07-19.45.02:182][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.08.07-19.45.02:186][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.07-19.45.02:186][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:186][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.07-19.45.02:186][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.08.07-19.45.02:194][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.07-19.45.02:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.07-19.45.02:195][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.08.07-19.45.02:199][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.07-19.45.02:199][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:199][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.07-19.45.02:199][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.08.07-19.45.02:204][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.07-19.45.02:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.07-19.45.02:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.08.07-19.45.02:209][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.07-19.45.02:209][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:209][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.07-19.45.02:209][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.08.07-19.45.02:213][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.07-19.45.02:213][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:213][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.07-19.45.02:213][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.08.07-19.45.02:217][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.07-19.45.02:217][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:217][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.07-19.45.02:217][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.08.07-19.45.02:223][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.07-19.45.02:223][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.07-19.45.02:223][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.07-19.45.02:223][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.08.07-19.45.02:327][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.08.07-19.45.02:330][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.07-19.45.02:419][  0]LogSlate: Took 0.004346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.07-19.45.02:427][  0]LogSlate: Took 0.006928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.07-19.45.02:437][  0]LogSlate: Took 0.005534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.07-19.45.02:601][  0]LogRenderer: Reallocating scene render targets to support 1192x624 Format 10 NumSamples 1 (Frame:1).
+[2021.08.07-19.45.02:696][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.07-19.45.02:696][  0]LogLoad: (Engine Initialization) Total time: 12.62 seconds
+[2021.08.07-19.45.02:696][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.07-19.45.02:696][  0]LogInit: First time updating LLM stats...
+[2021.08.07-19.45.02:735][  0]LogAssetRegistry: Asset discovery search completed in 4.4887 seconds
+[2021.08.07-19.45.02:736][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.08.07-19.45.02:756][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.07-19.45.02:831][  4]LogSlate: Took 0.003600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.07-19.45.06:899][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.07-19.45.06:903][248]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.07-19.45.07:195][248]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Mansion.Mansion
+[2021.08.07-19.45.07:195][248]Cmd: MAP LOAD FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.07-19.45.07:195][248]LightingResults: New page: Lighting Build
+[2021.08.07-19.45.07:196][248]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.08.07-19.45.07:196][248]LoadErrors: New page: Loading map: Mansion.umap
+[2021.08.07-19.45.07:245][248]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-19.45.07:246][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-19.45.07:246][248]MapCheck: New page: Map Check
+[2021.08.07-19.45.07:246][248]LightingResults: New page: Lighting Build
+[2021.08.07-19.45.07:253][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.07-19.45.07:255][248]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mansion'.
+[2021.08.07-19.45.07:316][248]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.07-19.45.07:316][248]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-19.45.07:326][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.08.07-19.45.07:330][248]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.07-19.45.07:330][248]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2021.08.07-19.45.07:330][248]LogFileHelpers: Loading map 'Mansion' took 0.136
+[2021.08.07-19.45.23:068][187]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.08.07-19.45.49:124][733]Cmd: DELETE
+[2021.08.07-19.45.49:124][733]Cmd: ACTOR DELETE
+[2021.08.07-19.45.49:136][733]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-19.45.49:143][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.07-19.45.49:195][733]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2021.08.07-19.45.54:626][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (housePlansPictureFrame)
+[2021.08.07-19.46.04:452][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (housePlansPictureFrame3)
+[2021.08.07-19.46.06:035][739]Cmd: DELETE
+[2021.08.07-19.46.06:035][739]Cmd: ACTOR DELETE
+[2021.08.07-19.46.06:042][739]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.07-19.46.06:047][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.07-19.46.06:048][739]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.08.07-19.47.00:354][985]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.07-19.48.53:906][661]Cmd: TRANSACTION UNDO
+[2021.08.07-19.48.53:906][661]LogEditorTransaction: Undo Snap Actors To Floor
+[2021.08.07-19.51.26:680][149]Cmd: DELETE
+[2021.08.07-19.51.26:680][149]Cmd: ACTOR DELETE
+[2021.08.07-19.51.26:710][149]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-19.51.26:736][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.08.07-19.51.26:807][149]LogEditorActor: Deleted 1 Actors (0.127 secs)
+[2021.08.07-19.51.27:410][181]Cmd: DELETE
+[2021.08.07-19.51.27:410][181]Cmd: ACTOR DELETE
+[2021.08.07-19.51.27:425][181]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-19.51.27:434][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.07-19.51.27:495][181]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2021.08.07-19.51.28:842][261]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.08.07-19.51.45:003][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-19.51.45:015][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.08.07-19.51.45:092][225]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion19C3F4C44E794A5233DD269BB4E87AD8.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-19.51.45:123][225]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-19.51.45:123][225]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-19.51.51:711][618]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-19.52.13:052][893]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-19.54.03:382][777]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2021.08.07-19.54.03:474][777]LogStaticMesh: Building static mesh Mansion_StaticMesh...
+[2021.08.07-19.54.03:501][777]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/Mansion_StaticMesh.Mansion_StaticMesh
+[2021.08.07-19.54.24:915][738]LogActorFactory: Actor Factory created Mansion_StaticMesh
+[2021.08.07-19.54.25:715][785]LogActorFactory: Actor Factory created Mansion_StaticMesh
+[2021.08.07-19.54.29:573][ 15]Cmd: TRANSACTION UNDO
+[2021.08.07-19.54.29:573][ 15]LogEditorTransaction: Undo Move Actors
+[2021.08.07-19.54.31:109][102]Cmd: TRANSACTION UNDO
+[2021.08.07-19.54.31:109][102]LogEditorTransaction: Undo Create Actors
+[2021.08.07-19.54.34:969][327]Cmd: TRANSACTION UNDO
+[2021.08.07-19.54.34:969][327]LogEditorTransaction: Undo Create Actors
+[2021.08.07-19.54.34:973][327]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Mansion.Mansion:PersistentLevel.ModelComponent_2658' invalid (7628 verts, 0 indices).
+[2021.08.07-19.54.34:973][327]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Mansion.Mansion:PersistentLevel.ModelComponent_2658.BodySetup_0 when we are unable to.
+[2021.08.07-19.56.09:275][167]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-19.57.06:056][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-19.57.06:069][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.07-19.57.06:140][571]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionF2E371C9484742DAAB34FB854CBC1971.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-19.57.06:152][571]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-19.57.06:152][571]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-19.57.12:840][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.08.07-19.57.14:801][970]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.07-19.57.14:929][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.08.07-19.57.23:089][458]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-19.57.25:619][608]LogRenderer: Reallocating scene render targets to support 1192x628 Format 10 NumSamples 1 (Frame:35068).
+[2021.08.07-19.57.25:655][609]LogRenderer: Reallocating scene render targets to support 1192x632 Format 10 NumSamples 1 (Frame:35070).
+[2021.08.07-19.57.25:690][610]LogRenderer: Reallocating scene render targets to support 1192x648 Format 10 NumSamples 1 (Frame:35072).
+[2021.08.07-19.57.25:731][611]LogRenderer: Reallocating scene render targets to support 1192x668 Format 10 NumSamples 1 (Frame:35074).
+[2021.08.07-19.57.25:773][612]LogRenderer: Reallocating scene render targets to support 1192x684 Format 10 NumSamples 1 (Frame:35076).
+[2021.08.07-19.57.27:194][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-19.57.27:199][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.07-19.57.27:266][696]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion5FBCEDB94AD9C670EA4DA5835440E8D4.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-19.57.27:278][696]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-19.57.27:278][696]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
