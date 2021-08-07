@@ -1197,3 +1197,149 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.07-20.14.18:076][978]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion8D76D5CC4C1D1D24014BC48DC53085AE.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
 [2021.08.07-20.14.18:088][978]AssetCheck: New page: Asset Save: Mansion
 [2021.08.07-20.14.18:088][978]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-20.15.01:061][639]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-20.15.01:066][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-20.15.01:067][639]PIE: New page: PIE session: Mansion (Aug 7, 2021, 12:15:01 PM)
+[2021.08.07-20.15.01:067][639]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2021.08.07-20.15.01:106][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039813s)
+[2021.08.07-20.15.01:107][639]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-20.15.01:107][639]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2021.08.07-20.15.01:107][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.040808s)
+[2021.08.07-20.15.01:112][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.07-20.15.01:114][639]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.07-20.15.01:114][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-20.15.01:114][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-20.15.01:114][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-20.15.01:114][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-20.15.01:114][639]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-20.15.01:114][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-20.15.01:114][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-20.15.01:114][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-20.15.01:114][639]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-20.15.01:114][639]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-20.15.01:118][639]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-20.15.01:118][639]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-20.15.01:144][639]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.08.07-20.15.01:144][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-20.15.01:144][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-20.15.01:144][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-20.15.01:144][639]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-20.15.01:144][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-20.15.01:144][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-20.15.01:158][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-20.15.01:158][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-20.15.01:158][639]LogInit: FAudioDevice initialized.
+[2021.08.07-20.15.01:158][639]LogAudio: Display: Audio Device (ID: 5) registered with world 'Mansion'.
+[2021.08.07-20.15.01:163][639]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-20.15.01:167][639]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-16.15.01
+[2021.08.07-20.15.01:167][639]LogWorld: Bringing up level for play took: 0.003567
+[2021.08.07-20.15.01:167][639]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.08.07-20.15.01:169][639]PIE: Server logged in
+[2021.08.07-20.15.01:170][639]PIE: Play in editor total start time 0.104 seconds.
+[2021.08.07-20.15.55:177][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-20.15.55:177][875]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mansion
+[2021.08.07-20.15.55:177][875]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-20.15.55:177][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-20.15.55:185][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-20.15.55:192][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-20.15.55:196][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-20.15.55:196][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-20.15.55:197][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-20.15.55:225][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.07-20.15.55:249][876]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.08.07-20.16.05:915][513]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2021.08.07-20.16.48:004][894]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-20.16.48:009][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-20.16.48:009][894]PIE: New page: PIE session: Mansion (Aug 7, 2021, 12:16:48 PM)
+[2021.08.07-20.16.48:009][894]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2021.08.07-20.16.48:048][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039534s)
+[2021.08.07-20.16.48:049][894]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-20.16.48:049][894]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2021.08.07-20.16.48:049][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.040827s)
+[2021.08.07-20.16.48:054][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.07-20.16.48:056][894]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.07-20.16.48:056][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-20.16.48:056][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-20.16.48:056][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-20.16.48:056][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-20.16.48:056][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-20.16.48:056][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-20.16.48:056][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-20.16.48:056][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-20.16.48:056][894]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-20.16.48:056][894]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-20.16.48:060][894]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-20.16.48:060][894]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-20.16.48:086][894]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.08.07-20.16.48:086][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-20.16.48:086][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-20.16.48:086][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-20.16.48:086][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-20.16.48:086][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-20.16.48:086][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-20.16.48:098][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-20.16.48:098][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-20.16.48:098][894]LogInit: FAudioDevice initialized.
+[2021.08.07-20.16.48:098][894]LogAudio: Display: Audio Device (ID: 6) registered with world 'Mansion'.
+[2021.08.07-20.16.48:108][894]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-20.16.48:111][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-16.16.48
+[2021.08.07-20.16.48:111][894]LogWorld: Bringing up level for play took: 0.002973
+[2021.08.07-20.16.48:111][894]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.08.07-20.16.48:113][894]PIE: Server logged in
+[2021.08.07-20.16.48:114][894]PIE: Play in editor total start time 0.106 seconds.
+[2021.08.07-20.17.47:646][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-20.17.47:646][458]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mansion
+[2021.08.07-20.17.47:646][458]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-20.17.47:647][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-20.17.47:652][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-20.17.47:658][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-20.17.47:663][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-20.17.47:663][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-20.17.47:664][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-20.17.47:697][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.07-20.17.47:722][459]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.08.07-20.19.25:345][324]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2021.08.07-20.20.19:327][539]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.19:327][539]LogEditorTransaction: Undo Edit X
+[2021.08.07-20.20.20:282][579]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.20:282][579]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-20.20.20:836][607]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.20:836][607]LogEditorTransaction: Undo Move Actors
+[2021.08.07-20.20.21:225][623]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.21:225][623]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-20.20.21:497][636]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.21:497][636]LogEditorTransaction: Undo Move Actors
+[2021.08.07-20.20.21:802][647]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.21:802][647]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-20.20.22:123][663]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.22:123][663]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.07-20.20.28:145][ 23]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.28:145][ 23]LogEditorTransaction: Undo Move Actors
+[2021.08.07-20.20.28:692][ 42]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.28:692][ 42]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-20.20.29:092][ 62]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.29:092][ 62]LogEditorTransaction: Undo Move Actors
+[2021.08.07-20.20.29:472][ 78]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.29:472][ 78]LogEditorTransaction: Undo Move Actors
+[2021.08.07-20.20.30:161][112]Cmd: TRANSACTION UNDO
+[2021.08.07-20.20.30:161][112]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-20.21.26:932][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-20.21.26:941][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.07-20.21.27:014][471]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion8D18AFBC41EC796DC838919C53C0A25C.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-20.21.27:030][471]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-20.21.27:030][471]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-20.21.27:549][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-20.21.27:557][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.07-20.21.27:626][502]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionF10885954B0728B0A38A47A3F188EDAE.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-20.21.27:638][502]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-20.21.27:638][502]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-20.21.39:729][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-20.21.39:734][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.08.07-20.21.39:804][787]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionB5EA243E4AB0DEC900561BB1FA0A10E1.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-20.21.39:817][787]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-20.21.39:817][787]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-20.21.52:472][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-20.21.52:476][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.07-20.21.52:546][546]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion87D2074F4E539931B681AE90664E50E2.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-20.21.52:559][546]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-20.21.52:559][546]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
