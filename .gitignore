@@ -82,3 +82,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.log
+*.log
+GhostGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+GhostGame/Intermediate/CachedAssetRegistry.bin
+*.log
