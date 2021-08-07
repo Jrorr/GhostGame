@@ -896,3 +896,168 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.07-19.57.27:266][696]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion5FBCEDB94AD9C670EA4DA5835440E8D4.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
 [2021.08.07-19.57.27:278][696]AssetCheck: New page: Asset Save: Mansion
 [2021.08.07-19.57.27:278][696]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-19.59.17:855][634]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-19.59.17:860][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-19.59.17:861][634]PIE: New page: PIE session: Mansion (Aug 7, 2021, 11:59:17 AM)
+[2021.08.07-19.59.17:862][634]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.07-19.59.17:863][634]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.07-19.59.17:863][634]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2021.08.07-19.59.17:903][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040297s)
+[2021.08.07-19.59.17:904][634]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-19.59.17:904][634]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2021.08.07-19.59.17:904][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.041555s)
+[2021.08.07-19.59.17:910][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.08.07-19.59.17:911][634]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.07-19.59.17:911][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-19.59.17:911][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-19.59.17:911][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-19.59.17:911][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-19.59.17:911][634]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-19.59.17:911][634]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-19.59.17:911][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-19.59.17:911][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-19.59.17:911][634]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-19.59.17:911][634]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-19.59.17:917][634]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-19.59.17:917][634]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-19.59.17:950][634]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.08.07-19.59.17:951][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-19.59.17:951][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-19.59.17:951][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-19.59.17:951][634]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-19.59.17:951][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-19.59.17:951][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-19.59.17:964][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-19.59.17:964][634]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-19.59.17:964][634]LogInit: FAudioDevice initialized.
+[2021.08.07-19.59.17:964][634]LogAudio: Display: Audio Device (ID: 2) registered with world 'Mansion'.
+[2021.08.07-19.59.17:972][634]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-19.59.17:976][634]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-15.59.17
+[2021.08.07-19.59.17:976][634]LogWorld: Bringing up level for play took: 0.003127
+[2021.08.07-19.59.17:976][634]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.08.07-19.59.17:979][634]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.08.07-19.59.17:979][634]PIE: Server logged in
+[2021.08.07-19.59.17:980][634]PIE: Play in editor total start time 0.121 seconds.
+[2021.08.07-19.59.40:186][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-19.59.40:186][961]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mansion
+[2021.08.07-19.59.40:187][961]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-19.59.40:187][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-19.59.40:192][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-19.59.40:203][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-19.59.40:207][961]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-19.59.40:208][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-19.59.40:209][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-19.59.40:256][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-19.59.40:259][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.07-19.59.40:283][962]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.08.07-20.00.12:530][186]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-20.01.09:289][574]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-20.01.10:327][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-20.01.10:332][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.07-20.01.10:400][634]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionBFF9DE1347829CE1942BB682C291C81A.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-20.01.10:413][634]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-20.01.10:413][634]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-20.01.32:550][961]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-20.01.42:923][580]Cmd: DELETE
+[2021.08.07-20.01.42:923][580]Cmd: ACTOR DELETE
+[2021.08.07-20.01.42:934][580]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.08.07-20.01.42:937][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:937][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:937][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:937][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:937][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:938][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:938][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:938][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:938][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:938][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:938][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:938][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:939][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:939][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:939][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:939][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:939][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:940][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:940][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:940][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:940][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:940][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:940][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:940][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:940][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:941][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:941][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:941][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:941][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:941][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:941][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:942][580]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.42:947][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.07-20.01.42:978][580]LogEditorActor: Deleted 33 Actors (0.055 secs)
+[2021.08.07-20.01.44:658][680]Cmd: TRANSACTION UNDO
+[2021.08.07-20.01.44:658][680]LogEditorTransaction: Undo Delete Actors
+[2021.08.07-20.01.47:762][854]Cmd: DELETE
+[2021.08.07-20.01.47:762][854]Cmd: ACTOR DELETE
+[2021.08.07-20.01.47:773][854]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.08.07-20.01.47:775][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:775][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:776][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:776][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:776][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:776][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:776][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:776][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:776][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:777][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:777][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:777][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:777][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:777][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:777][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:778][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:778][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:778][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:778][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:778][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:779][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:779][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:779][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:779][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:779][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:779][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:779][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:779][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:780][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:780][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:780][854]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-20.01.47:785][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.08.07-20.01.47:814][854]LogEditorActor: Deleted 32 Actors (0.052 secs)
+[2021.08.07-20.04.26:184][314]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.08.07-20.04.28:093][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-20.04.28:098][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.07-20.04.28:143][427]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion150C47D04DD9EE521D642C82F9EC089A.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-20.04.28:159][427]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-20.04.28:159][427]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-20.04.58:926][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-20.04.58:934][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.07-20.04.58:978][254]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionBCEFFE964C3C4E3BB74ED0A826D4B6AD.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-20.04.58:992][254]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-20.04.58:992][254]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-20.05.08:197][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-20.05.08:203][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.07-20.05.08:246][806]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionCFC88973408ED4C2FD614691942CC5ED.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-20.05.08:259][806]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-20.05.08:259][806]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-20.05.14:364][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-20.05.14:368][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.08.07-20.05.14:410][172]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion90FB5EA14EC17111F218CEB4F94EE7B6.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-20.05.14:423][172]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-20.05.14:423][172]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
+[2021.08.07-20.05.38:016][582]LogEditorViewport: Clicking on Actor (CTRL LMB): SkyLight (SkyLight2)
+[2021.08.07-20.06.06:042][248]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2021.08.07-20.06.08:793][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.07-20.06.08:798][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.07-20.06.08:869][411]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion6DDF93FB4035A7954A3F44B73B9F6D09.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Mansion.umap'
+[2021.08.07-20.06.08:882][411]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-20.06.08:882][411]LogContentValidation: Display: Validating World /Game/Maps/Mansion.Mansion
