@@ -1647,3 +1647,1648 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.07-13.05.37:737][307]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/house_plans_MatDD2A4A3147321744C1E075B9B480E1EC.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPerson/Materials/HousePlans/house_plans_Mat.uasset'
 [2021.08.07-13.05.37:744][307]AssetCheck: New page: Asset Save: house_plans_Mat
 [2021.08.07-13.05.37:744][307]LogContentValidation: Display: Validating Material /Game/FirstPerson/Materials/HousePlans/house_plans_Mat.house_plans_Mat
+[2021.08.07-13.11.19:742][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.07-13.11.19:757][522]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion8EF408A14147D7F411336C8CE671458A.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-13.11.19:769][522]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-13.11.19:769][522]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-13.11.35:679][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.08.07-13.11.35:693][377]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion65E6B6EA4144B066E9609ABD51B69B6B.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-13.11.35:704][377]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-13.11.35:704][377]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-13.18.28:884][778]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.18.28:888][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.18.28:888][778]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:18:28 AM)
+[2021.08.07-13.18.28:918][778]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.18.28:927][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008928s)
+[2021.08.07-13.18.28:928][778]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.18.28:928][778]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2021.08.07-13.18.28:928][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.010425s)
+[2021.08.07-13.18.28:934][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.08.07-13.18.28:936][778]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.08.07-13.18.28:936][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.18.28:936][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.18.28:936][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.18.28:936][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.18.28:936][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.18.28:936][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.18.28:936][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.18.28:937][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.18.28:937][778]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.18.28:937][778]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.18.28:941][778]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.18.28:941][778]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.18.28:949][778]LogAudioMixer: Display: Using Audio Device U28D590 (NVIDIA High Definition Audio)
+[2021.08.07-13.18.28:950][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.18.28:950][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.18.28:950][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.18.28:950][778]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.18.28:950][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.18.28:950][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.18.28:963][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.18.28:963][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.18.28:963][778]LogInit: FAudioDevice initialized.
+[2021.08.07-13.18.28:963][778]LogAudio: Display: Audio Device (ID: 9) registered with world 'Mansion'.
+[2021.08.07-13.18.28:972][778]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.18.28:974][778]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.18.28
+[2021.08.07-13.18.28:974][778]LogWorld: Bringing up level for play took: 0.001375
+[2021.08.07-13.18.28:974][778]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.08.07-13.18.28:976][778]PIE: Server logged in
+[2021.08.07-13.18.28:976][778]PIE: Play in editor total start time 0.089 seconds.
+[2021.08.07-13.18.31:008][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.18.31:008][898]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.18.31:009][898]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.18.31:009][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.18.31:018][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.18.31:029][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.18.31:032][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.18.31:032][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.18.31:033][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.18.31:047][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.08.07-13.18.31:099][900]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.08.07-13.18.40:249][449]Cmd: SELECT NONE
+[2021.08.07-13.18.48:283][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (housePlansPictureFrame)
+[2021.08.07-13.18.57:379][473]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-13.19.14:648][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (housePlansPictureFrame)
+[2021.08.07-13.19.23:534][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-13.19.24:494][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.19.24:499][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.19.24:499][ 96]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:19:24 AM)
+[2021.08.07-13.19.24:499][ 96]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.19.24:508][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009246s)
+[2021.08.07-13.19.24:509][ 96]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.19.24:509][ 96]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2021.08.07-13.19.24:510][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.010574s)
+[2021.08.07-13.19.24:520][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.08.07-13.19.24:522][ 96]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.08.07-13.19.24:522][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.19.24:522][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.19.24:522][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.19.24:522][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.19.24:522][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.19.24:522][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.19.24:522][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.19.24:522][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.19.24:523][ 96]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.19.24:523][ 96]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.19.24:526][ 96]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.19.24:526][ 96]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.19.24:534][ 96]LogAudioMixer: Display: Using Audio Device U28D590 (NVIDIA High Definition Audio)
+[2021.08.07-13.19.24:534][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.19.24:534][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.19.24:534][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.19.24:535][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.19.24:535][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.19.24:535][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.19.24:548][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.19.24:548][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.19.24:548][ 96]LogInit: FAudioDevice initialized.
+[2021.08.07-13.19.24:548][ 96]LogAudio: Display: Audio Device (ID: 10) registered with world 'Mansion'.
+[2021.08.07-13.19.24:554][ 96]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.19.24:555][ 96]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.19.24
+[2021.08.07-13.19.24:556][ 96]LogWorld: Bringing up level for play took: 0.001262
+[2021.08.07-13.19.24:556][ 96]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.08.07-13.19.24:557][ 96]PIE: Server logged in
+[2021.08.07-13.19.24:558][ 96]PIE: Play in editor total start time 0.06 seconds.
+[2021.08.07-13.19.28:838][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.19.28:838][350]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.19.28:838][350]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.19.28:838][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.19.28:843][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.19.28:849][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.19.28:852][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-13.19.28:852][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.19.28:853][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.19.28:866][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.19.28:868][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.07-13.19.28:919][352]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.08.07-13.19.32:501][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.08.07-13.19.32:516][566]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion2559BB4E4C0542752CD00F856C8990BD.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-13.19.32:528][566]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-13.19.32:528][566]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-13.20.21:790][521]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.08.07-13.20.27:072][837]Cmd: DELETE
+[2021.08.07-13.20.27:072][837]Cmd: ACTOR DELETE
+[2021.08.07-13.20.27:074][837]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-13.20.27:079][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.08.07-13.20.27:087][837]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.08.07-13.20.29:833][  1]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.08.07-13.21.08:587][322]MapCheck: New page: Map Check
+[2021.08.07-13.21.08:597][322]Cmd: MAP REBUILD ALLVISIBLE
+[2021.08.07-13.21.08:597][322]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.08.07-13.21.08:651][322]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=false
+[2021.08.07-13.21.08:667][322]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.08.07-13.21.08:667][322]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.08.07-13.21.08:667][322]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.08.07-13.21.08:667][322]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.08.07-13.21.08:667][322]MapCheck: New page: Mansion - Aug 7, 2021, 5:21:08 AM
+[2021.08.07-13.21.08:667][322]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.08.07-13.21.08:667][322]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.543ms to complete.
+[2021.08.07-13.21.08:669][322]LogEditorBuildUtils: Build time 0:00
+[2021.08.07-13.21.10:164][409]LogSlate: Window 'Message Log' being destroyed
+[2021.08.07-13.21.10:167][409]LogSlate: Window 'Message Log' being destroyed
+[2021.08.07-13.23.59:226][537]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-13.25.44:132][820]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.25.44:137][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.25.44:137][820]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:25:44 AM)
+[2021.08.07-13.25.44:137][820]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.25.44:149][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011766s)
+[2021.08.07-13.25.44:150][820]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.25.44:150][820]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2021.08.07-13.25.44:150][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.013063s)
+[2021.08.07-13.25.44:158][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.07-13.25.44:159][820]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.08.07-13.25.44:159][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.25.44:160][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.25.44:160][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.25.44:160][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.25.44:160][820]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.25.44:160][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.25.44:160][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.25.44:160][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.25.44:160][820]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.25.44:160][820]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.25.44:163][820]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.25.44:163][820]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.25.44:171][820]LogAudioMixer: Display: Using Audio Device U28D590 (NVIDIA High Definition Audio)
+[2021.08.07-13.25.44:172][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.25.44:172][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.25.44:172][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.25.44:172][820]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.25.44:172][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.25.44:172][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.25.44:186][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.25.44:186][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.25.44:186][820]LogInit: FAudioDevice initialized.
+[2021.08.07-13.25.44:186][820]LogAudio: Display: Audio Device (ID: 11) registered with world 'Mansion'.
+[2021.08.07-13.25.44:193][820]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.25.44:195][820]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.25.44
+[2021.08.07-13.25.44:195][820]LogWorld: Bringing up level for play took: 0.001544
+[2021.08.07-13.25.44:196][820]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.08.07-13.25.44:197][820]PIE: Server logged in
+[2021.08.07-13.25.44:198][820]PIE: Play in editor total start time 0.061 seconds.
+[2021.08.07-13.25.55:752][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.25.55:752][510]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.25.55:753][510]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.25.55:753][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.25.55:760][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.25.55:771][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.25.55:775][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-13.25.55:775][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.25.55:776][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.25.55:790][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.25.55:792][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.07-13.25.55:812][511]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.08.07-13.26.01:063][824]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.26.01:067][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.26.01:067][824]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:26:01 AM)
+[2021.08.07-13.26.01:092][824]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.26.01:103][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011210s)
+[2021.08.07-13.26.01:104][824]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.26.01:104][824]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2021.08.07-13.26.01:104][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.012461s)
+[2021.08.07-13.26.01:110][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.07-13.26.01:111][824]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.08.07-13.26.01:111][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.26.01:111][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.26.01:111][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.26.01:111][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.26.01:111][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.26.01:111][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.26.01:111][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.26.01:111][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.26.01:112][824]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.26.01:112][824]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.26.01:115][824]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.26.01:115][824]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.26.01:123][824]LogAudioMixer: Display: Using Audio Device U28D590 (NVIDIA High Definition Audio)
+[2021.08.07-13.26.01:124][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.26.01:124][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.26.01:124][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.26.01:124][824]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.26.01:124][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.26.01:124][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.26.01:137][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.26.01:137][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.26.01:138][824]LogInit: FAudioDevice initialized.
+[2021.08.07-13.26.01:138][824]LogAudio: Display: Audio Device (ID: 12) registered with world 'Mansion'.
+[2021.08.07-13.26.01:143][824]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.26.01:145][824]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.26.01
+[2021.08.07-13.26.01:145][824]LogWorld: Bringing up level for play took: 0.001395
+[2021.08.07-13.26.01:145][824]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.08.07-13.26.01:146][824]PIE: Server logged in
+[2021.08.07-13.26.01:147][824]PIE: Play in editor total start time 0.08 seconds.
+[2021.08.07-13.26.15:562][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.26.15:562][686]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.26.15:562][686]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.26.15:563][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.26.15:568][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.26.15:579][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.26.15:584][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.26.15:584][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.26.15:585][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.26.15:600][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.07-13.26.15:648][688]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.08.07-13.26.28:774][473]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.26.28:778][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.26.28:778][473]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:26:28 AM)
+[2021.08.07-13.26.28:801][473]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.26.28:811][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009744s)
+[2021.08.07-13.26.28:812][473]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.26.28:812][473]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2021.08.07-13.26.28:812][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.010942s)
+[2021.08.07-13.26.28:818][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.08.07-13.26.28:819][473]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.08.07-13.26.28:819][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.26.28:819][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.26.28:819][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.26.28:819][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.26.28:819][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.26.28:819][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.26.28:819][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.26.28:819][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.26.28:819][473]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.26.28:819][473]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.26.28:823][473]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.26.28:823][473]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.26.28:831][473]LogAudioMixer: Display: Using Audio Device U28D590 (NVIDIA High Definition Audio)
+[2021.08.07-13.26.28:831][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.26.28:831][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.26.28:831][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.26.28:831][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.26.28:831][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.26.28:831][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.26.28:845][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.26.28:845][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.26.28:845][473]LogInit: FAudioDevice initialized.
+[2021.08.07-13.26.28:845][473]LogAudio: Display: Audio Device (ID: 13) registered with world 'Mansion'.
+[2021.08.07-13.26.28:852][473]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.26.28:853][473]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.26.28
+[2021.08.07-13.26.28:853][473]LogWorld: Bringing up level for play took: 0.001281
+[2021.08.07-13.26.28:854][473]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.08.07-13.26.28:855][473]PIE: Server logged in
+[2021.08.07-13.26.28:856][473]PIE: Play in editor total start time 0.078 seconds.
+[2021.08.07-13.26.59:861][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.26.59:861][331]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.26.59:862][331]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.26.59:862][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.26.59:872][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.26.59:882][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.26.59:887][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.26.59:887][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.26.59:888][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.26.59:905][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.07-13.26.59:954][333]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.08.07-13.27.10:936][990]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.27.10:940][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.27.10:940][990]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:27:10 AM)
+[2021.08.07-13.27.10:940][990]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.27.10:951][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010635s)
+[2021.08.07-13.27.10:952][990]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.27.10:952][990]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2021.08.07-13.27.10:952][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.011881s)
+[2021.08.07-13.27.10:958][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.07-13.27.10:959][990]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.08.07-13.27.10:959][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.27.10:959][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.27.10:959][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.27.10:959][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.27.10:959][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.27.10:959][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.27.10:959][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.27.10:959][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.27.10:960][990]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.27.10:960][990]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.27.10:963][990]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.27.10:963][990]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.27.10:972][990]LogAudioMixer: Display: Using Audio Device U28D590 (NVIDIA High Definition Audio)
+[2021.08.07-13.27.10:972][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.27.10:972][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.27.10:972][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.27.10:972][990]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.27.10:972][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.27.10:972][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.27.10:985][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.27.10:985][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.27.10:985][990]LogInit: FAudioDevice initialized.
+[2021.08.07-13.27.10:985][990]LogAudio: Display: Audio Device (ID: 14) registered with world 'Mansion'.
+[2021.08.07-13.27.10:991][990]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.27.10:993][990]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.27.10
+[2021.08.07-13.27.10:994][990]LogWorld: Bringing up level for play took: 0.001440
+[2021.08.07-13.27.10:994][990]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.08.07-13.27.10:995][990]PIE: Server logged in
+[2021.08.07-13.27.10:996][990]PIE: Play in editor total start time 0.056 seconds.
+[2021.08.07-13.27.50:961][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.27.50:961][385]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.27.50:961][385]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.27.50:962][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.27.50:966][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.27.50:976][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.27.50:982][385]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-13.27.50:982][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.27.50:982][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.27.50:996][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.27.50:998][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.07-13.27.51:044][387]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.08.07-13.29.35:152][  5]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.08.07-13.30.17:481][542]Cmd: TRANSACTION UNDO
+[2021.08.07-13.30.17:481][542]LogEditorTransaction: Undo Create Actors
+[2021.08.07-13.30.17:482][542]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Mansion.Mansion:PersistentLevel.ModelComponent_1067' invalid (248 verts, 0 indices).
+[2021.08.07-13.30.17:482][542]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Mansion.Mansion:PersistentLevel.ModelComponent_1067.BodySetup_0 when we are unable to.
+[2021.08.07-13.30.31:043][346]LogMaterial: Display: Missing cached shader map for material FirstPersonCrosshair_Mat, compiling. 
+[2021.08.07-13.30.31:061][346]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.08.07-13.30.31:061][346]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.08.07-13.30.31:061][346]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.08.07-13.30.31:061][346]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.08.07-13.30.31:061][346]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.08.07-13.30.31:061][346]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.08.07-13.30.32:392][416]Cmd: TRANSACTION UNDO
+[2021.08.07-13.30.32:392][416]LogEditorTransaction: Undo Create Actors
+[2021.08.07-13.30.32:392][416]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Mansion.Mansion:PersistentLevel.ModelComponent_1067' invalid (248 verts, 0 indices).
+[2021.08.07-13.30.32:392][416]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Mansion.Mansion:PersistentLevel.ModelComponent_1067.BodySetup_0 when we are unable to.
+[2021.08.07-13.31.00:745][109]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-13.31.27:982][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.07-13.31.28:003][736]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion_Auto2721564A34C98FA6FBD773798A9285742.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Autosaves/Game/FirstPersonBP/Maps/Mansion_Auto2.umap'
+[2021.08.07-13.31.28:005][736]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Mansion' took 0.028
+[2021.08.07-13.31.28:005][736]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2021.08.07-13.34.31:595][304]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-13.35.36:297][175]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-13.35.37:609][253]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.35.37:613][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.35.37:613][253]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:35:37 AM)
+[2021.08.07-13.35.37:634][253]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.35.37:646][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011791s)
+[2021.08.07-13.35.37:647][253]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.35.37:648][253]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2021.08.07-13.35.37:648][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.013237s)
+[2021.08.07-13.35.37:655][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.07-13.35.37:656][253]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.08.07-13.35.37:656][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.35.37:656][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.35.37:656][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.35.37:656][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.35.37:656][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.35.37:656][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.35.37:656][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.35.37:656][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.35.37:656][253]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.35.37:656][253]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.35.37:660][253]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.35.37:660][253]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.35.37:670][253]LogAudioMixer: Display: Using Audio Device U28D590 (NVIDIA High Definition Audio)
+[2021.08.07-13.35.37:670][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.35.37:670][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.35.37:670][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.35.37:671][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.35.37:671][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.35.37:671][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.35.37:683][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.35.37:683][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.35.37:683][253]LogInit: FAudioDevice initialized.
+[2021.08.07-13.35.37:683][253]LogAudio: Display: Audio Device (ID: 15) registered with world 'Mansion'.
+[2021.08.07-13.35.37:691][253]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.35.37:692][253]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.35.37
+[2021.08.07-13.35.37:693][253]LogWorld: Bringing up level for play took: 0.001444
+[2021.08.07-13.35.37:693][253]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.08.07-13.35.37:694][253]PIE: Server logged in
+[2021.08.07-13.35.37:695][253]PIE: Play in editor total start time 0.083 seconds.
+[2021.08.07-13.36.02:745][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.36.02:745][754]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.36.02:745][754]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.36.02:745][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.36.02:753][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.36.02:759][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.36.02:765][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-13.36.02:765][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.36.02:767][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.36.02:780][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.36.02:782][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.07-13.36.02:849][756]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.08.07-13.36.31:973][825]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.36.31:977][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.36.31:977][825]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:36:31 AM)
+[2021.08.07-13.36.31:977][825]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.36.31:988][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010984s)
+[2021.08.07-13.36.31:989][825]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.36.31:989][825]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2021.08.07-13.36.31:989][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.012018s)
+[2021.08.07-13.36.31:995][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.07-13.36.31:996][825]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.08.07-13.36.31:996][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.36.31:996][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.36.31:996][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.36.31:996][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.36.31:996][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.36.31:996][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.36.31:996][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.36.31:996][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.36.31:997][825]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.36.31:997][825]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.36.32:000][825]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.36.32:000][825]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.36.32:009][825]LogAudioMixer: Display: Using Audio Device U28D590 (NVIDIA High Definition Audio)
+[2021.08.07-13.36.32:009][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.36.32:009][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.36.32:009][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.36.32:009][825]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.36.32:009][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.36.32:009][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.36.32:022][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.36.32:022][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.36.32:022][825]LogInit: FAudioDevice initialized.
+[2021.08.07-13.36.32:023][825]LogAudio: Display: Audio Device (ID: 16) registered with world 'Mansion'.
+[2021.08.07-13.36.32:028][825]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.36.32:030][825]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.36.32
+[2021.08.07-13.36.32:030][825]LogWorld: Bringing up level for play took: 0.001356
+[2021.08.07-13.36.32:030][825]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.08.07-13.36.32:031][825]PIE: Server logged in
+[2021.08.07-13.36.32:032][825]PIE: Play in editor total start time 0.056 seconds.
+[2021.08.07-13.36.58:194][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.36.58:194][392]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.36.58:194][392]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.36.58:194][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.36.58:204][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.36.58:214][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.36.58:221][392]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-13.36.58:221][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.36.58:222][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.36.58:236][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.36.58:238][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.07-13.36.58:260][393]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.08.07-13.37.06:221][869]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2021.08.07-13.38.10:113][693]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.38.10:117][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.38.10:117][693]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:38:10 AM)
+[2021.08.07-13.38.10:117][693]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.38.10:128][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011550s)
+[2021.08.07-13.38.10:129][693]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.38.10:129][693]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2021.08.07-13.38.10:129][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.012772s)
+[2021.08.07-13.38.10:137][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.07-13.38.10:138][693]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.08.07-13.38.10:138][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.38.10:138][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.38.10:138][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.38.10:138][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.38.10:138][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.38.10:138][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.38.10:138][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.38.10:138][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.38.10:139][693]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.38.10:139][693]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.38.10:142][693]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.38.10:142][693]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.38.10:150][693]LogAudioMixer: Display: Using Audio Device U28D590 (NVIDIA High Definition Audio)
+[2021.08.07-13.38.10:150][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.38.10:150][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.38.10:150][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.38.10:151][693]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.38.10:151][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.38.10:151][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.38.10:164][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.38.10:164][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.38.10:164][693]LogInit: FAudioDevice initialized.
+[2021.08.07-13.38.10:164][693]LogAudio: Display: Audio Device (ID: 17) registered with world 'Mansion'.
+[2021.08.07-13.38.10:172][693]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.38.10:174][693]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.38.10
+[2021.08.07-13.38.10:174][693]LogWorld: Bringing up level for play took: 0.001346
+[2021.08.07-13.38.10:174][693]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.08.07-13.38.10:176][693]PIE: Server logged in
+[2021.08.07-13.38.10:176][693]PIE: Play in editor total start time 0.06 seconds.
+[2021.08.07-13.38.47:652][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.38.47:652][939]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.38.47:652][939]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.38.47:653][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.38.47:658][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.38.47:669][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.38.47:676][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-13.38.47:676][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.38.47:677][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.38.47:691][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.38.47:693][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.08.07-13.38.47:735][941]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.08.07-13.38.48:602][993]Cmd: SELECT NONE
+[2021.08.07-13.39.34:118][884]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{82bc66ed-f9e3-48db-aced-64602a4eafe0}.
+[2021.08.07-13.39.34:118][884]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.07-13.39.34:134][884]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.39.34:134][884]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.40.51:675][115]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{82bc66ed-f9e3-48db-aced-64602a4eafe0}.
+[2021.08.07-13.40.51:675][115]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.07-13.40.51:692][115]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.40.51:692][115]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.42.44:787][368]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.42.44:791][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.42.44:791][368]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:42:44 AM)
+[2021.08.07-13.42.44:791][368]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.42.44:803][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011823s)
+[2021.08.07-13.42.44:804][368]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.42.44:805][368]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2021.08.07-13.42.44:805][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.013069s)
+[2021.08.07-13.42.44:813][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.07-13.42.44:814][368]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.08.07-13.42.44:814][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.42.44:814][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.42.44:814][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.42.44:814][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.42.44:814][368]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.42.44:814][368]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.42.44:814][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.42.44:814][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.42.44:815][368]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.42.44:815][368]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.42.44:818][368]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.42.44:818][368]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.42.44:826][368]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.08.07-13.42.44:826][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.42.44:826][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.42.44:826][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.42.44:826][368]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.42.44:827][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.42.44:827][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.42.44:839][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.42.44:840][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.42.44:840][368]LogInit: FAudioDevice initialized.
+[2021.08.07-13.42.44:840][368]LogAudio: Display: Audio Device (ID: 18) registered with world 'Mansion'.
+[2021.08.07-13.42.44:846][368]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.42.44:848][368]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.42.44
+[2021.08.07-13.42.44:849][368]LogWorld: Bringing up level for play took: 0.001397
+[2021.08.07-13.42.44:849][368]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.08.07-13.42.44:850][368]PIE: Server logged in
+[2021.08.07-13.42.44:851][368]PIE: Play in editor total start time 0.06 seconds.
+[2021.08.07-13.42.58:728][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.42.58:728][197]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.42.58:728][197]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.42.58:728][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.42.58:737][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.42.58:747][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.42.58:754][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-13.42.58:754][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.42.58:755][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.42.58:768][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.42.58:770][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.07-13.42.58:818][199]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.08.07-13.43.03:158][458]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-13.43.03:162][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-13.43.03:162][458]PIE: New page: PIE session: Mansion (Aug 7, 2021, 5:43:03 AM)
+[2021.08.07-13.43.03:162][458]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.43.03:173][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010808s)
+[2021.08.07-13.43.03:174][458]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-13.43.03:174][458]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2021.08.07-13.43.03:174][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.012120s)
+[2021.08.07-13.43.03:182][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.07-13.43.03:184][458]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.08.07-13.43.03:184][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-13.43.03:184][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-13.43.03:184][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-13.43.03:184][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-13.43.03:184][458]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-13.43.03:184][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-13.43.03:184][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-13.43.03:184][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-13.43.03:184][458]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-13.43.03:184][458]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-13.43.03:188][458]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-13.43.03:188][458]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-13.43.03:195][458]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.08.07-13.43.03:196][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-13.43.03:196][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-13.43.03:196][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-13.43.03:196][458]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-13.43.03:196][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-13.43.03:196][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-13.43.03:208][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-13.43.03:208][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-13.43.03:208][458]LogInit: FAudioDevice initialized.
+[2021.08.07-13.43.03:208][458]LogAudio: Display: Audio Device (ID: 19) registered with world 'Mansion'.
+[2021.08.07-13.43.03:216][458]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-13.43.03:218][458]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-09.43.03
+[2021.08.07-13.43.03:218][458]LogWorld: Bringing up level for play took: 0.001390
+[2021.08.07-13.43.03:218][458]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.08.07-13.43.03:220][458]PIE: Server logged in
+[2021.08.07-13.43.03:220][458]PIE: Play in editor total start time 0.059 seconds.
+[2021.08.07-13.43.25:168][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.43.25:168][772]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-13.43.25:168][772]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-13.43.25:169][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.43.25:174][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-13.43.25:184][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-13.43.25:192][772]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-13.43.25:192][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.43.25:193][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-13.43.25:206][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-13.43.25:208][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.07-13.43.25:251][774]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.08.07-13.43.50:539][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.07-13.43.50:565][984]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion_Auto3DC9917D643257BD4676F14AC646E83E8.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Autosaves/Game/FirstPersonBP/Maps/Mansion_Auto3.umap'
+[2021.08.07-13.43.50:567][984]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Mansion' took 0.034
+[2021.08.07-13.43.50:567][984]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2021.08.07-13.46.01:998][284]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-13.46.08:785][688]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.08.07-13.46.56:417][543]Cmd: TRANSACTION UNDO
+[2021.08.07-13.46.56:417][543]LogEditorTransaction: Undo Move Actors
+[2021.08.07-13.46.56:936][568]Cmd: TRANSACTION UNDO
+[2021.08.07-13.46.56:936][568]LogEditorTransaction: Undo Edit Z
+[2021.08.07-13.46.57:496][600]Cmd: TRANSACTION UNDO
+[2021.08.07-13.46.57:496][600]LogEditorTransaction: Undo Edit Z
+[2021.08.07-13.46.58:164][639]Cmd: TRANSACTION UNDO
+[2021.08.07-13.46.58:164][639]LogEditorTransaction: Undo Brush Add
+[2021.08.07-13.46.58:722][672]Cmd: TRANSACTION UNDO
+[2021.08.07-13.46.58:722][672]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.07-13.46.59:293][705]Cmd: TRANSACTION UNDO
+[2021.08.07-13.46.59:293][705]LogEditorTransaction: Undo Move Actors
+[2021.08.07-13.47.04:289][999]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.08.07-13.50.20:436][859]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-13.50.22:364][973]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-13.50.23:405][ 34]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-13.50.25:279][144]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-13.50.26:647][225]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-13.50.27:719][288]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-13.51.16:332][871]Cmd: TRANSACTION UNDO
+[2021.08.07-13.51.16:332][871]LogEditorTransaction: Undo Move Actors
+[2021.08.07-13.51.16:342][871]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.08.07-13.51.16:342][871]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2021.08.07-13.51.16:342][871]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-13.51.23:608][298]Cmd: TRANSACTION UNDO
+[2021.08.07-13.51.23:608][298]LogEditorTransaction: Undo Move Actors
+[2021.08.07-13.51.23:618][298]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.08.07-13.51.23:618][298]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2021.08.07-13.51.23:618][298]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-13.52.13:836][916]Cmd: SELECT NONE
+[2021.08.07-13.52.43:474][690]Cmd: TRANSACTION UNDO
+[2021.08.07-13.52.43:474][690]LogEditorTransaction: Undo Move Actors
+[2021.08.07-13.52.43:484][690]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-13.52.43:484][690]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2021.08.07-13.52.43:484][690]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-13.53.00:904][593]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-13.53.17:128][562]Cmd: TRANSACTION UNDO
+[2021.08.07-13.53.17:128][562]LogEditorTransaction: Undo Move Actors
+[2021.08.07-13.54.08:796][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.08.07-13.54.08:834][312]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion_Auto4319BAFA64CF8EBCB26CB28ADB83251ED.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Autosaves/Game/FirstPersonBP/Maps/Mansion_Auto4.umap'
+[2021.08.07-13.54.08:837][312]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Mansion' took 0.053
+[2021.08.07-13.54.08:837][312]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2021.08.07-13.55.28:825][376]Cmd: TRANSACTION UNDO
+[2021.08.07-13.55.28:825][376]LogEditorTransaction: Undo Move Actors
+[2021.08.07-13.55.28:835][376]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.08.07-13.55.28:835][376]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2021.08.07-13.55.28:835][376]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-13.56.09:991][836]Cmd: TRANSACTION UNDO
+[2021.08.07-13.56.09:991][836]LogEditorTransaction: Undo Move Actors
+[2021.08.07-13.56.10:000][836]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.08.07-13.56.10:000][836]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2021.08.07-13.56.10:000][836]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-13.56.10:541][863]Cmd: TRANSACTION UNDO
+[2021.08.07-13.56.10:541][863]LogEditorTransaction: Undo Move Actors
+[2021.08.07-13.56.10:550][863]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.08.07-13.56.10:550][863]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2021.08.07-13.56.10:550][863]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-13.56.11:260][905]Cmd: TRANSACTION UNDO
+[2021.08.07-13.56.11:260][905]LogEditorTransaction: Undo Move Actors
+[2021.08.07-13.56.11:271][905]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.08.07-13.56.11:271][905]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2021.08.07-13.56.11:271][905]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-13.56.12:084][953]LogGeometryMode: Warning: Unable to find Floor Brush(s) in new BSP
+[2021.08.07-13.56.12:085][953]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-13.56.14:156][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-13.56.36:947][ 57]LogRenderer: Reallocating scene render targets to support 1056x1448 Format 10 NumSamples 1 (Frame:164223).
+[2021.08.07-13.57.36:714][365]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-13.57.53:312][355]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-14.00.20:845][659]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-14.00.21:446][693]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-14.00.46:485][859]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-14.01.12:074][388]Cmd: TRANSACTION UNDO
+[2021.08.07-14.01.12:074][388]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.01.12:085][388]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.08.07-14.01.12:085][388]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2021.08.07-14.01.12:085][388]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.01.17:361][697]Cmd: TRANSACTION UNDO
+[2021.08.07-14.01.17:361][697]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.01.17:373][697]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.08.07-14.01.17:373][697]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2021.08.07-14.01.17:373][697]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.01.33:507][656]Cmd: TRANSACTION UNDO
+[2021.08.07-14.01.33:507][656]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.01.34:645][716]Cmd: TRANSACTION UNDO
+[2021.08.07-14.01.34:645][716]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.01.34:656][716]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.08.07-14.01.34:656][716]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2021.08.07-14.01.34:656][716]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.01.39:302][994]LogGeometryMode: Warning: Unable to find BoxBrush_3 Brush(s) in new BSP
+[2021.08.07-14.01.39:302][994]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.02.15:944][185]Cmd: TRANSACTION UNDO
+[2021.08.07-14.02.15:944][185]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.02.16:406][206]Cmd: TRANSACTION UNDO
+[2021.08.07-14.02.16:406][206]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.02.16:842][230]Cmd: TRANSACTION UNDO
+[2021.08.07-14.02.16:842][230]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.02.17:301][256]Cmd: TRANSACTION UNDO
+[2021.08.07-14.02.17:301][256]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.02.18:588][332]Cmd: TRANSACTION UNDO
+[2021.08.07-14.02.18:589][332]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.02.19:611][392]Cmd: TRANSACTION UNDO
+[2021.08.07-14.02.19:611][392]LogEditorTransaction: Undo Snap Actors To Floor
+[2021.08.07-14.02.20:799][461]Cmd: TRANSACTION UNDO
+[2021.08.07-14.02.20:800][461]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.02.21:614][508]Cmd: TRANSACTION UNDO
+[2021.08.07-14.02.21:614][508]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.03.33:745][676]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.07-14.04.01:569][288]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.07-14.04.01:575][288]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.07-14.04.01:584][288]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.07-14.04.03:522][405]LogContentBrowser: Attempting asset rename: NewBlueprint -> test
+[2021.08.07-14.04.03:525][405]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.07-14.04.06:338][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/test.test
+[2021.08.07-14.04.06:538][573]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.08.07-14.04.09:182][679]LogRenderer: Reallocating scene render targets to support 1404x1448 Format 10 NumSamples 1 (Frame:108).
+[2021.08.07-14.04.41:650][283]LogSlate: Window 'test' being destroyed
+[2021.08.07-14.04.41:656][283]LogSlate: Window 'test' being destroyed
+[2021.08.07-14.04.41:687][283]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-14.04.41:687][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-14.05.06:618][774]LogActorFactory: Actor Factory created Cube
+[2021.08.07-14.05.07:287][814]LogActorFactory: Actor Factory created Cube
+[2021.08.07-14.05.11:164][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.08.07-14.05.11:615][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.08.07-14.05.57:965][853]Cmd: DELETE
+[2021.08.07-14.05.57:965][853]Cmd: ACTOR DELETE
+[2021.08.07-14.05.57:992][853]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.07-14.05.58:014][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.08.07-14.05.58:021][853]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.08.07-14.06.01:709][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-14.06.01:713][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-14.06.01:714][ 75]PIE: New page: PIE session: Mansion (Aug 7, 2021, 6:06:01 AM)
+[2021.08.07-14.06.01:714][ 75]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-14.06.01:727][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013660s)
+[2021.08.07-14.06.01:728][ 75]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-14.06.01:729][ 75]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2021.08.07-14.06.01:729][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.015026s)
+[2021.08.07-14.06.01:746][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.08.07-14.06.01:747][ 75]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.08.07-14.06.01:747][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-14.06.01:747][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-14.06.01:747][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-14.06.01:747][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-14.06.01:747][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-14.06.01:747][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-14.06.01:747][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-14.06.01:747][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-14.06.01:747][ 75]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-14.06.01:747][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-14.06.01:751][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-14.06.01:751][ 75]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-14.06.01:759][ 75]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.08.07-14.06.01:759][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-14.06.01:759][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-14.06.01:759][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-14.06.01:760][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-14.06.01:760][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-14.06.01:760][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-14.06.01:774][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-14.06.01:774][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-14.06.01:774][ 75]LogInit: FAudioDevice initialized.
+[2021.08.07-14.06.01:774][ 75]LogAudio: Display: Audio Device (ID: 20) registered with world 'Mansion'.
+[2021.08.07-14.06.01:780][ 75]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-14.06.01:782][ 75]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-10.06.01
+[2021.08.07-14.06.01:782][ 75]LogWorld: Bringing up level for play took: 0.001592
+[2021.08.07-14.06.01:783][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.08.07-14.06.01:784][ 75]PIE: Server logged in
+[2021.08.07-14.06.01:784][ 75]PIE: Play in editor total start time 0.071 seconds.
+[2021.08.07-14.06.36:478][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-14.06.36:478][154]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-14.06.36:478][154]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-14.06.36:478][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-14.06.36:485][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-14.06.36:489][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-14.06.36:505][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-14.06.36:505][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-14.06.36:506][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-14.06.36:523][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.08.07-14.06.36:565][156]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.08.07-14.06.54:057][202]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-14.06.54:061][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-14.06.54:061][202]PIE: New page: PIE session: Mansion (Aug 7, 2021, 6:06:54 AM)
+[2021.08.07-14.06.54:061][202]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-14.06.54:074][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012910s)
+[2021.08.07-14.06.54:075][202]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-14.06.54:075][202]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2021.08.07-14.06.54:075][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.014146s)
+[2021.08.07-14.06.54:090][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.08.07-14.06.54:093][202]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.08.07-14.06.54:094][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-14.06.54:094][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-14.06.54:094][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-14.06.54:094][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-14.06.54:094][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-14.06.54:094][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-14.06.54:094][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-14.06.54:094][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-14.06.54:094][202]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-14.06.54:094][202]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-14.06.54:098][202]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-14.06.54:098][202]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-14.06.54:106][202]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.08.07-14.06.54:106][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-14.06.54:106][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-14.06.54:106][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-14.06.54:107][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-14.06.54:107][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-14.06.54:107][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-14.06.54:120][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-14.06.54:120][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-14.06.54:120][202]LogInit: FAudioDevice initialized.
+[2021.08.07-14.06.54:120][202]LogAudio: Display: Audio Device (ID: 21) registered with world 'Mansion'.
+[2021.08.07-14.06.54:125][202]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-14.06.54:127][202]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-10.06.54
+[2021.08.07-14.06.54:127][202]LogWorld: Bringing up level for play took: 0.001830
+[2021.08.07-14.06.54:128][202]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.08.07-14.06.54:129][202]PIE: Server logged in
+[2021.08.07-14.06.54:130][202]PIE: Play in editor total start time 0.07 seconds.
+[2021.08.07-14.07.42:788][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-14.07.42:788][118]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-14.07.42:788][118]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-14.07.42:788][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-14.07.42:798][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-14.07.42:814][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-14.07.42:833][118]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-14.07.42:833][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-14.07.42:834][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-14.07.42:848][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-14.07.42:851][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.08.07-14.07.42:879][119]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.08.07-14.08.01:419][227]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-14.08.01:423][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-14.08.01:423][227]PIE: New page: PIE session: Mansion (Aug 7, 2021, 6:08:01 AM)
+[2021.08.07-14.08.01:423][227]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-14.08.01:437][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013395s)
+[2021.08.07-14.08.01:438][227]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-14.08.01:438][227]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2021.08.07-14.08.01:438][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.014704s)
+[2021.08.07-14.08.01:454][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.08.07-14.08.01:457][227]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.08.07-14.08.01:457][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-14.08.01:457][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-14.08.01:457][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-14.08.01:457][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-14.08.01:457][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-14.08.01:457][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-14.08.01:457][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-14.08.01:457][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-14.08.01:458][227]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-14.08.01:458][227]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-14.08.01:461][227]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-14.08.01:461][227]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-14.08.01:469][227]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.08.07-14.08.01:469][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-14.08.01:469][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-14.08.01:469][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-14.08.01:469][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-14.08.01:469][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-14.08.01:469][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-14.08.01:482][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-14.08.01:482][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-14.08.01:482][227]LogInit: FAudioDevice initialized.
+[2021.08.07-14.08.01:482][227]LogAudio: Display: Audio Device (ID: 22) registered with world 'Mansion'.
+[2021.08.07-14.08.01:490][227]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-14.08.01:492][227]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-10.08.01
+[2021.08.07-14.08.01:492][227]LogWorld: Bringing up level for play took: 0.001479
+[2021.08.07-14.08.01:493][227]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.08.07-14.08.01:494][227]PIE: Server logged in
+[2021.08.07-14.08.01:495][227]PIE: Play in editor total start time 0.072 seconds.
+[2021.08.07-14.08.58:907][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-14.08.58:907][669]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-14.08.58:907][669]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-14.08.58:908][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-14.08.58:913][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-14.08.58:925][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-14.08.58:942][669]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-14.08.58:942][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-14.08.58:943][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-14.08.58:971][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-14.08.58:973][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.08.07-14.08.59:000][670]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.08.07-14.09.35:046][831]Cmd: DELETE
+[2021.08.07-14.09.35:046][831]Cmd: ACTOR DELETE
+[2021.08.07-14.09.35:072][831]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-14.09.35:089][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.08.07-14.09.35:103][831]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2021.08.07-14.09.39:333][ 84]Cmd: DELETE
+[2021.08.07-14.09.39:333][ 84]Cmd: ACTOR DELETE
+[2021.08.07-14.09.39:357][ 84]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-14.09.39:373][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.08.07-14.09.39:379][ 84]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2021.08.07-14.10.11:866][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.07-14.10.11:900][ 27]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion_Auto5B55A82FD414C2DE4149E5B844D0C2C53.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Autosaves/Game/FirstPersonBP/Maps/Mansion_Auto5.umap'
+[2021.08.07-14.10.11:902][ 27]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Mansion' took 0.051
+[2021.08.07-14.10.11:902][ 27]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2021.08.07-14.10.43:123][900]Cmd: DELETE
+[2021.08.07-14.10.43:123][900]Cmd: ACTOR DELETE
+[2021.08.07-14.10.43:152][900]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-14.10.43:170][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.08.07-14.10.43:177][900]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.08.07-14.10.52:430][455]LogActorFactory: Actor Factory created Cube
+[2021.08.07-14.10.53:575][523]LogActorFactory: Actor Factory created Cube
+[2021.08.07-14.10.54:364][569]Cmd: DELETE
+[2021.08.07-14.10.54:364][569]Cmd: ACTOR DELETE
+[2021.08.07-14.10.54:390][569]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.07-14.10.54:405][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.07-14.10.54:406][569]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2021.08.07-14.10.57:271][740]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.08.07-14.12.07:892][970]LogActorFactory: Actor Factory created Cube
+[2021.08.07-14.12.08:571][  6]LogActorFactory: Actor Factory created Cube
+[2021.08.07-14.12.53:082][673]Cmd: TRANSACTION UNDO
+[2021.08.07-14.12.53:082][673]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.13.28:923][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.08.07-14.13.31:073][582]Cmd: DELETE
+[2021.08.07-14.13.31:073][582]Cmd: ACTOR DELETE
+[2021.08.07-14.13.31:100][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.07-14.13.31:115][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.08.07-14.13.31:123][582]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.08.07-14.13.50:670][456]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-14.15.02:910][777]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2021.08.07-14.15.07:890][ 75]Cmd: TRANSACTION UNDO
+[2021.08.07-14.15.07:890][ 75]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.15.07:898][ 75]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.15.07:898][ 75]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2021.08.07-14.15.07:898][ 75]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.15.37:867][865]Cmd: TRANSACTION UNDO
+[2021.08.07-14.15.37:867][865]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.15.37:875][865]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.15.37:875][865]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2021.08.07-14.15.37:875][865]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.15.41:988][ 24]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-14.16.22:321][426]Cmd: TRANSACTION UNDO
+[2021.08.07-14.16.22:321][426]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-14.16.22:939][457]Cmd: TRANSACTION UNDO
+[2021.08.07-14.16.22:939][457]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.16.23:439][486]Cmd: TRANSACTION UNDO
+[2021.08.07-14.16.23:439][486]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.16.23:964][517]Cmd: TRANSACTION UNDO
+[2021.08.07-14.16.23:964][517]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-14.16.24:494][548]Cmd: TRANSACTION UNDO
+[2021.08.07-14.16.24:495][548]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-14.16.25:037][580]Cmd: TRANSACTION UNDO
+[2021.08.07-14.16.25:037][580]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-14.16.25:612][614]Cmd: TRANSACTION UNDO
+[2021.08.07-14.16.25:612][614]LogEditorTransaction: Undo Set Texpan
+[2021.08.07-14.16.26:183][647]Cmd: TRANSACTION UNDO
+[2021.08.07-14.16.26:183][647]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.16.26:191][647]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.16.26:191][647]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2021.08.07-14.16.26:191][647]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.16.27:708][737]LogGeometryMode: Warning: Unable to find Floor Brush(s) in new BSP
+[2021.08.07-14.16.27:708][737]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.16.30:130][881]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-14.17.13:425][475]Cmd: TRANSACTION UNDO
+[2021.08.07-14.17.13:425][475]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.17.13:433][475]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.17.13:433][475]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2021.08.07-14.17.13:433][475]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.17.52:802][824]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-14.18.21:585][545]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.08.07-14.19.02:754][  6]Cmd: TRANSACTION UNDO
+[2021.08.07-14.19.02:755][  6]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.19.02:764][  6]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.19.02:764][  6]LogGeometryMode: Warning: Unable to resolve BoxBrush2_10 Brush in new BSP, see above
+[2021.08.07-14.19.02:764][  6]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.19.43:842][454]Cmd: TRANSACTION UNDO
+[2021.08.07-14.19.43:842][454]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.19.45:040][520]Cmd: TRANSACTION UNDO
+[2021.08.07-14.19.45:040][520]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.19.45:051][520]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.19.45:051][520]LogGeometryMode: Warning: Unable to resolve BoxBrush2_10 Brush in new BSP, see above
+[2021.08.07-14.19.45:051][520]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.19.47:552][600]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-14.20.26:566][936]Cmd: TRANSACTION UNDO
+[2021.08.07-14.20.26:566][936]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.20.26:577][936]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.20.26:577][936]LogGeometryMode: Warning: Unable to resolve BoxBrush2_10 Brush in new BSP, see above
+[2021.08.07-14.20.26:577][936]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.21.47:362][763]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2021.08.07-14.21.47:362][763]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.21.59:206][470]Cmd: TRANSACTION UNDO
+[2021.08.07-14.21.59:206][470]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.21.59:217][470]LogGeometryMode: Warning: Unable to find 3 Poly(s) in new BSP
+[2021.08.07-14.21.59:217][470]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2021.08.07-14.21.59:217][470]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.22.22:400][849]LogGeometryMode: Warning: Unable to find BoxBrush2_10 Brush(s) in new BSP
+[2021.08.07-14.22.22:400][849]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.22.32:559][457]Cmd: DELETE
+[2021.08.07-14.22.32:573][457]Cmd: ACTOR DELETE
+[2021.08.07-14.22.32:612][457]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-14.22.32:630][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.08.07-14.22.32:648][457]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2021.08.07-14.22.43:186][ 88]Cmd: DELETE
+[2021.08.07-14.22.43:197][ 88]Cmd: ACTOR DELETE
+[2021.08.07-14.22.43:233][ 88]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-14.22.43:249][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.08.07-14.22.43:256][ 88]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2021.08.07-14.22.58:237][982]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.08.07-14.25.33:392][197]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-14.25.42:214][726]Cmd: TRANSACTION UNDO
+[2021.08.07-14.25.42:214][726]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.25.42:221][726]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.25.42:221][726]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.25.42:221][726]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.25.50:204][198]Cmd: TRANSACTION UNDO
+[2021.08.07-14.25.50:204][198]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.25.50:211][198]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.25.50:211][198]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.25.50:211][198]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.25.53:286][376]Cmd: TRANSACTION UNDO
+[2021.08.07-14.25.53:286][376]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.25.53:293][376]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.25.53:293][376]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.25.53:293][376]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.26.06:463][159]Cmd: TRANSACTION UNDO
+[2021.08.07-14.26.06:463][159]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.26.07:546][218]Cmd: TRANSACTION UNDO
+[2021.08.07-14.26.07:546][218]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.26.07:554][218]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.26.07:554][218]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.26.07:554][218]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.27.07:977][830]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.07:977][830]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.27.08:633][863]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.08:633][863]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.27.09:385][907]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.09:385][907]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.27.10:396][966]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.10:396][966]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.27.10:881][994]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.10:881][994]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.27.11:398][ 24]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.11:398][ 24]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.27.11:846][ 50]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.11:846][ 50]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.27.12:392][ 82]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.12:392][ 82]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.27.12:917][113]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.12:917][113]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-14.27.13:481][146]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.13:481][146]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.27.13:489][146]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.27.13:489][146]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.27.13:489][146]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.27.15:521][267]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.15:522][267]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.27.15:530][267]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.27.15:530][267]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.27.15:530][267]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.27.16:497][324]Cmd: TRANSACTION UNDO
+[2021.08.07-14.27.16:497][324]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.27.16:504][324]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.27.16:505][324]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.27.16:505][324]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.27.19:027][405]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-14.28.18:046][929]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.18:046][929]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.18:614][956]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.18:614][956]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.28.19:227][992]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.19:227][992]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.28.19:763][ 23]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.19:763][ 23]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.20:265][ 52]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.20:265][ 52]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.20:833][ 85]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.20:833][ 85]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.21:401][118]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.21:401][118]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.22:018][154]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.22:018][154]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.28.22:621][189]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.22:621][189]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.28.23:233][225]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.23:233][225]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.28.23:829][260]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.23:829][260]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.28.24:407][294]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.24:407][294]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.24:926][324]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.24:927][324]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.25:345][348]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.25:345][348]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.25:779][373]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.25:779][373]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.26:870][436]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-14.28.28:044][504]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-14.28.40:996][273]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-14.28.55:413][135]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.55:413][135]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.55:665][147]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.55:665][147]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.28.55:909][157]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.55:909][157]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.28.56:216][174]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.56:216][174]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.56:567][194]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.56:567][194]LogEditorTransaction: Undo Select Surface
+[2021.08.07-14.28.56:957][216]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.56:957][216]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.57:332][237]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.57:332][237]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.57:701][258]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.57:701][258]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.58:102][281]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.58:102][281]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.58:521][305]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.58:521][305]LogEditorTransaction: Undo Select Surfaces
+[2021.08.07-14.28.58:928][328]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.58:928][328]LogEditorTransaction: Undo Select Surface
+[2021.08.07-14.28.59:315][350]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.59:315][350]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.28.59:721][373]Cmd: TRANSACTION UNDO
+[2021.08.07-14.28.59:721][373]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.29.00:345][410]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.00:345][410]LogEditorTransaction: Undo Select Surface
+[2021.08.07-14.29.00:719][431]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.00:719][431]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.29.01:105][453]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.01:105][453]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-14.29.01:520][477]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.01:520][477]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.29.01:777][491]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.01:777][491]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.29.01:944][500]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.01:944][500]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.29.02:109][509]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.02:109][509]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.29.02:118][509]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.29.02:118][509]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.29.02:118][509]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.29.02:284][518]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.02:284][518]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.29.02:291][518]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.29.02:291][518]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.29.02:291][518]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.29.02:485][529]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.02:485][529]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.29.16:404][291]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-14.29.23:756][731]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.23:756][731]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.29.23:764][731]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.29.23:764][731]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.29.23:764][731]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.29.30:560][132]Cmd: TRANSACTION UNDO
+[2021.08.07-14.29.30:560][132]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-14.29.30:568][132]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.29.30:568][132]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.29.30:568][132]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.30.19:117][ 28]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-14.30.19:878][ 72]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-14.30.25:982][435]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-14.30.30:791][722]Cmd: EDCALLBACK SURFPROPS
+[2021.08.07-14.30.57:221][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.08.07-14.30.57:333][937]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion_Auto69FB672BA476A0ACC5E7DD2A32AFDD7A0.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Autosaves/Game/FirstPersonBP/Maps/Mansion_Auto6.umap'
+[2021.08.07-14.30.57:339][937]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Mansion' took 0.150
+[2021.08.07-14.30.57:339][937]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.150
+[2021.08.07-14.31.21:378][585]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-14.31.38:943][632]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.38:943][632]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.31.39:614][666]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.39:614][666]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.40:325][707]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.40:325][707]LogEditorTransaction: Undo Modifier [Clip]
+[2021.08.07-14.31.41:058][750]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.41:058][750]LogEditorTransaction: Undo Modifier [Triangulate]
+[2021.08.07-14.31.52:906][455]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.52:906][455]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.53:480][483]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.53:481][483]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.53:814][502]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.53:814][502]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.54:097][518]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.54:097][518]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.54:329][531]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.54:329][531]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.54:673][551]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.54:673][551]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.07-14.31.55:109][576]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.55:109][576]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.55:481][597]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.55:481][597]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.55:886][621]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.55:886][621]LogEditorTransaction: Undo Select Surface
+[2021.08.07-14.31.56:305][645]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.56:305][645]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.56:766][672]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.56:767][672]LogEditorTransaction: Undo Select Surface
+[2021.08.07-14.31.57:215][698]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.57:215][698]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.57:635][722]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.57:635][722]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.58:090][749]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.58:090][749]LogEditorTransaction: Undo Select Surface
+[2021.08.07-14.31.58:559][776]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.58:559][776]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.59:083][807]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.59:083][807]LogEditorTransaction: Undo Select Surface
+[2021.08.07-14.31.59:452][828]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.59:452][828]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.31.59:769][846]Cmd: TRANSACTION UNDO
+[2021.08.07-14.31.59:769][846]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.32.00:075][863]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.00:075][863]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.32.00:428][883]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.00:428][883]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.32.00:610][893]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.00:611][893]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.32.00:745][900]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.00:745][900]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.32.00:956][912]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.00:956][912]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.32.01:143][922]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.01:143][922]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.07-14.32.01:390][936]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.01:390][936]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-14.32.01:618][949]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.01:618][949]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.32.01:626][949]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.32.01:626][949]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.32.01:626][949]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.32.01:992][970]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.01:992][970]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.32.02:000][970]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.32.02:000][970]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.32.02:000][970]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.32.02:742][ 14]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.02:742][ 14]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.32.02:749][ 14]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.32.02:749][ 14]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.32.02:749][ 14]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.32.06:359][230]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.06:359][230]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-14.32.07:702][298]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.07:702][298]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-14.32.08:077][320]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.08:077][320]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.32.08:084][320]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.32.08:084][320]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.32.08:085][320]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.32.12:134][562]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-14.32.58:941][360]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.58:941][360]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-14.32.59:613][395]Cmd: TRANSACTION UNDO
+[2021.08.07-14.32.59:613][395]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.32.59:622][395]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.32.59:622][395]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.32.59:622][395]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.33.04:564][609]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-14.33.14:367][195]Cmd: TRANSACTION UNDO
+[2021.08.07-14.33.14:367][195]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.33.14:375][195]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.33.14:375][195]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.33.14:375][195]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.33.17:160][271]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-14.35.26:745][ 22]Cmd: TRANSACTION UNDO
+[2021.08.07-14.35.26:745][ 22]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.35.26:757][ 22]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.35.26:757][ 22]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.35.26:757][ 22]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.36.13:289][788]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2021.08.07-14.36.13:289][788]LogGeometryMode: Warning: Unable to resolve BoxBrush_12 Brush in new BSP, see above
+[2021.08.07-14.36.13:289][788]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.36.29:861][779]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-14.37.12:749][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.08.07-14.37.12:804][345]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionFA06883C41158BEDA450439E7A8D8776.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-14.37.12:881][345]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-14.37.12:881][345]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-14.37.57:748][662]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-14.37.57:753][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-14.37.57:753][662]PIE: New page: PIE session: Mansion (Aug 7, 2021, 6:37:57 AM)
+[2021.08.07-14.37.57:753][662]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-14.37.57:765][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011414s)
+[2021.08.07-14.37.57:766][662]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-14.37.57:767][662]LogPlayLevel: PIE: World Init took: (0.001751s)
+[2021.08.07-14.37.57:767][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.013281s)
+[2021.08.07-14.37.57:811][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.08.07-14.37.57:819][662]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.08.07-14.37.57:819][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-14.37.57:819][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-14.37.57:819][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-14.37.57:819][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-14.37.57:819][662]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-14.37.57:819][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-14.37.57:819][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-14.37.57:819][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-14.37.57:820][662]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-14.37.57:820][662]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-14.37.57:825][662]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-14.37.57:825][662]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-14.37.57:835][662]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.08.07-14.37.57:835][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-14.37.57:835][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-14.37.57:835][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-14.37.57:836][662]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-14.37.57:836][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-14.37.57:836][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-14.37.57:852][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-14.37.57:852][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-14.37.57:852][662]LogInit: FAudioDevice initialized.
+[2021.08.07-14.37.57:852][662]LogAudio: Display: Audio Device (ID: 23) registered with world 'Mansion'.
+[2021.08.07-14.37.57:860][662]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-14.37.57:862][662]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-10.37.57
+[2021.08.07-14.37.57:862][662]LogWorld: Bringing up level for play took: 0.001845
+[2021.08.07-14.37.57:862][662]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.08.07-14.37.57:864][662]PIE: Server logged in
+[2021.08.07-14.37.57:864][662]PIE: Play in editor total start time 0.112 seconds.
+[2021.08.07-14.38.33:197][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-14.38.33:197][779]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-14.38.33:197][779]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-14.38.33:197][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-14.38.33:204][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-14.38.33:216][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-14.38.33:228][779]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-14.38.33:229][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-14.38.33:229][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-14.38.33:243][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-14.38.33:246][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.08.07-14.38.33:307][781]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.08.07-14.38.56:745][185]Cmd: DELETE
+[2021.08.07-14.38.56:754][185]Cmd: ACTOR DELETE
+[2021.08.07-14.38.56:757][185]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-14.38.56:772][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.08.07-14.38.56:783][185]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.08.07-14.40.05:127][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.08.07-14.40.05:150][275]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion12812B39478C9D51DE21F3AC9F0B10FF.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-14.40.05:165][275]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-14.40.05:165][275]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-14.40.27:072][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.08.07-14.40.27:091][585]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion66B37BF2477598F10042B3BB2F39D101.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-14.40.27:106][585]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-14.40.27:106][585]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-14.50.27:317][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.08.07-14.50.27:319][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Mansion' took 0.018
+[2021.08.07-14.57.58:055][884]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2021.08.07-14.58.04:732][224]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-14.58.26:598][534]Cmd: TRANSACTION UNDO
+[2021.08.07-14.58.26:598][534]LogEditorTransaction: Undo Move Actors
+[2021.08.07-14.58.26:606][534]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.58.26:606][534]LogGeometryMode: Warning: Unable to resolve BoxBrush2_14 Brush in new BSP, see above
+[2021.08.07-14.58.26:606][534]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.58.54:899][224]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-14.58.54:899][224]LogGeometryMode: Warning: Unable to resolve BoxBrush2_14 Brush in new BSP, see above
+[2021.08.07-14.58.54:899][224]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-14.59.26:017][ 18]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.00.52:031][166]Cmd: TRANSACTION UNDO
+[2021.08.07-15.00.52:031][166]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.00.52:041][166]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-15.00.52:041][166]LogGeometryMode: Warning: Unable to resolve BoxBrush2_14 Brush in new BSP, see above
+[2021.08.07-15.00.52:041][166]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.00.56:017][336]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.02.24:393][619]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.02.42:788][711]Cmd: TRANSACTION UNDO
+[2021.08.07-15.02.42:788][711]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.02.42:798][711]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-15.02.42:798][711]LogGeometryMode: Warning: Unable to resolve BoxBrush2_14 Brush in new BSP, see above
+[2021.08.07-15.02.42:798][711]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.02.47:404][977]LogGeometryMode: Warning: Unable to find Floor Brush(s) in new BSP
+[2021.08.07-15.02.47:404][977]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.04.02:537][376]Cmd: TRANSACTION UNDO
+[2021.08.07-15.04.02:537][376]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.04.02:549][376]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-15.04.02:549][376]LogGeometryMode: Warning: Unable to resolve BoxBrush2_14 Brush in new BSP, see above
+[2021.08.07-15.04.02:549][376]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.04.05:946][572]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush2)
+[2021.08.07-15.04.11:055][802]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.05.01:593][732]Cmd: TRANSACTION UNDO
+[2021.08.07-15.05.01:593][732]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.05.01:608][732]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-15.05.01:608][732]LogGeometryMode: Warning: Unable to resolve BoxBrush2_14 Brush in new BSP, see above
+[2021.08.07-15.05.01:608][732]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.05.04:120][807]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.05.13:201][332]Cmd: TRANSACTION UNDO
+[2021.08.07-15.05.13:201][332]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.05.13:720][353]Cmd: TRANSACTION UNDO
+[2021.08.07-15.05.13:720][353]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.05.13:733][353]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-15.05.13:733][353]LogGeometryMode: Warning: Unable to resolve BoxBrush2_14 Brush in new BSP, see above
+[2021.08.07-15.05.13:733][353]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.05.19:317][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.08.07-15.05.19:354][676]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionD398E8F540BF59E6161A48A71CA70BA4.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.05.19:374][676]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.05.19:374][676]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-15.06.23:356][333]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.06.33:929][884]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.06.49:451][731]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.06.57:397][207]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-15.06.57:397][207]LogGeometryMode: Warning: Unable to resolve BoxBrush2_14 Brush in new BSP, see above
+[2021.08.07-15.06.57:397][207]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.06.59:201][306]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.07.00:737][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.08.07-15.07.00:768][393]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionC5B8571F4DE15211B9BDA89CB1212B56.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.07.00:786][393]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.07.00:786][393]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-15.07.05:540][671]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.07.10:252][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.08.07-15.07.10:277][942]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion728742FF4C4BED9B2D7105B95F48111E.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.07.10:292][942]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.07.10:292][942]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-15.07.25:524][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.07.53:655][540]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.09.41:259][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.08.07-15.09.41:290][292]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion2F09637F4321348F71981185E518A8F1.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.09.41:307][292]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.09.41:307][292]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-15.09.50:163][823]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.09.50:427][838]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.08.07-15.09.51:743][915]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.08.07-15.09.52:093][936]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.08.07-15.09.53:444][ 16]Cmd: DELETE
+[2021.08.07-15.09.53:445][ 16]Cmd: ACTOR DELETE
+[2021.08.07-15.09.53:451][ 16]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-15.09.53:467][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.08.07-15.09.53:478][ 16]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.08.07-15.10.45:932][151]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2021.08.07-15.10.53:014][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.08.07-15.10.53:040][571]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionD313A5CC4013B7DC564F3D8162396534.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.10.53:057][571]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.10.53:057][571]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-15.11.26:544][576]Cmd: TRANSACTION UNDO
+[2021.08.07-15.11.26:544][576]LogEditorTransaction: Undo Modifier [Edit]
+[2021.08.07-15.11.28:310][676]Cmd: TRANSACTION UNDO
+[2021.08.07-15.11.28:310][676]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.11.28:323][676]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-15.11.28:323][676]LogGeometryMode: Warning: Unable to resolve BoxBrush4 Brush in new BSP, see above
+[2021.08.07-15.11.28:323][676]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.11.30:188][787]Cmd: TRANSACTION UNDO
+[2021.08.07-15.11.30:188][787]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.11.30:204][787]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-15.11.30:204][787]LogGeometryMode: Warning: Unable to resolve BoxBrush4 Brush in new BSP, see above
+[2021.08.07-15.11.30:204][787]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.11.33:188][911]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.11.53:510][127]Cmd: TRANSACTION UNDO
+[2021.08.07-15.11.53:510][127]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.08.07-15.11.54:008][151]Cmd: TRANSACTION UNDO
+[2021.08.07-15.11.54:008][151]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.11.54:020][151]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-15.11.54:020][151]LogGeometryMode: Warning: Unable to resolve BoxBrush4 Brush in new BSP, see above
+[2021.08.07-15.11.54:020][151]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.11.54:572][181]Cmd: TRANSACTION UNDO
+[2021.08.07-15.11.54:572][181]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.11.54:585][181]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.08.07-15.11.54:585][181]LogGeometryMode: Warning: Unable to resolve BoxBrush4 Brush in new BSP, see above
+[2021.08.07-15.11.54:585][181]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.11.57:967][383]LogGeometryMode: Warning: Unable to find ExteriorWallFloor1 Brush(s) in new BSP
+[2021.08.07-15.11.57:967][383]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.12.34:861][584]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2021.08.07-15.12.34:861][584]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.12.40:625][872]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.13.00:573][ 67]Cmd: TRANSACTION UNDO
+[2021.08.07-15.13.00:573][ 67]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.13.28:640][740]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.13.58:012][492]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.13.58:366][512]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.08.07-15.14.08:651][125]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.14.29:929][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.08.07-15.14.29:959][398]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion11DC2E9F43FAEEE8B4AA579DD0E995D5.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.14.29:974][398]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.14.29:975][398]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-15.14.42:789][166]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.14.43:815][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.08.07-15.14.43:838][225]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionF198B65348F1DA00CD0023940713DCE2.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.14.43:852][225]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.14.43:852][225]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-15.16.17:764][675]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.17.12:362][945]LogGeometryMode: Warning: Unable to find Floor Brush(s) in new BSP
+[2021.08.07-15.17.12:362][945]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.17.14:299][ 60]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.17.52:941][374]Cmd: TRANSACTION UNDO
+[2021.08.07-15.17.52:941][374]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.18.23:166][111]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.20.04:375][173]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2021.08.07-15.20.04:375][173]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.07-15.20.44:573][439]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.08.07-15.20.56:733][156]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.23.41:152][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (housePlansPictureFrame2)
+[2021.08.07-15.24.30:684][526]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.25.03:666][490]Cmd: TRANSACTION UNDO
+[2021.08.07-15.25.03:666][490]LogEditorTransaction: Undo Edit Y
+[2021.08.07-15.25.23:843][687]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.30.01:725][297]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-15.30.01:729][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-15.30.01:729][297]PIE: New page: PIE session: Mansion (Aug 7, 2021, 7:30:01 AM)
+[2021.08.07-15.30.01:730][297]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-15.30.01:746][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016945s)
+[2021.08.07-15.30.01:747][297]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-15.30.01:748][297]LogPlayLevel: PIE: World Init took: (0.001477s)
+[2021.08.07-15.30.01:748][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.018613s)
+[2021.08.07-15.30.01:768][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.08.07-15.30.01:779][297]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.08.07-15.30.01:779][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-15.30.01:779][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-15.30.01:779][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-15.30.01:779][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-15.30.01:779][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-15.30.01:779][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-15.30.01:779][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-15.30.01:779][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-15.30.01:779][297]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-15.30.01:779][297]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-15.30.01:783][297]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-15.30.01:783][297]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-15.30.01:794][297]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.08.07-15.30.01:794][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-15.30.01:794][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-15.30.01:794][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-15.30.01:794][297]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-15.30.01:795][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-15.30.01:795][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-15.30.01:808][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-15.30.01:808][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-15.30.01:808][297]LogInit: FAudioDevice initialized.
+[2021.08.07-15.30.01:808][297]LogAudio: Display: Audio Device (ID: 24) registered with world 'Mansion'.
+[2021.08.07-15.30.01:814][297]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-15.30.01:816][297]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-11.30.01
+[2021.08.07-15.30.01:816][297]LogWorld: Bringing up level for play took: 0.001964
+[2021.08.07-15.30.01:816][297]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.08.07-15.30.01:818][297]PIE: Server logged in
+[2021.08.07-15.30.01:819][297]PIE: Play in editor total start time 0.09 seconds.
+[2021.08.07-15.30.50:006][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-15.30.50:006][184]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-15.30.50:006][184]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-15.30.50:006][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-15.30.50:016][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-15.30.50:029][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-15.30.50:048][184]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-15.30.50:048][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-15.30.50:049][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-15.30.50:064][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-15.30.50:067][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.08.07-15.30.50:096][185]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.08.07-15.31.19:711][952]Cmd: TRANSACTION UNDO
+[2021.08.07-15.31.19:711][952]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.31.24:131][205]Cmd: DELETE
+[2021.08.07-15.31.24:131][205]Cmd: ACTOR DELETE
+[2021.08.07-15.31.24:163][205]LogEditorActor: Deleted Actor: Brush
+[2021.08.07-15.31.24:179][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.08.07-15.31.24:198][205]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2021.08.07-15.34.47:937][410]Cmd: TRANSACTION UNDO
+[2021.08.07-15.34.47:937][410]LogEditorTransaction: Undo Move Actors
+[2021.08.07-15.34.48:585][441]Cmd: TRANSACTION UNDO
+[2021.08.07-15.34.48:585][441]LogEditorTransaction: Undo Edit X
+[2021.08.07-15.35.27:376][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.08.07-15.35.27:432][748]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/MansionB9C2FEF94AFB4D30D91451A22185393B.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.35.27:477][748]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.35.27:477][748]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-15.35.28:730][823]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-15.35.28:735][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-15.35.28:735][823]PIE: New page: PIE session: Mansion (Aug 7, 2021, 7:35:28 AM)
+[2021.08.07-15.35.28:735][823]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-15.35.28:752][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016468s)
+[2021.08.07-15.35.28:753][823]LogAIModule: Creating AISystem for world Mansion
+[2021.08.07-15.35.28:754][823]LogPlayLevel: PIE: World Init took: (0.001776s)
+[2021.08.07-15.35.28:754][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Mansion.Mansion to /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion (0.018404s)
+[2021.08.07-15.35.28:786][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.08.07-15.35.28:789][823]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.08.07-15.35.28:789][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-15.35.28:789][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-15.35.28:789][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-15.35.28:789][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-15.35.28:789][823]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-15.35.28:789][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-15.35.28:789][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-15.35.28:789][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-15.35.28:790][823]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-15.35.28:790][823]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-15.35.28:793][823]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-15.35.28:793][823]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-15.35.28:804][823]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.08.07-15.35.28:804][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-15.35.28:805][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-15.35.28:805][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-15.35.28:805][823]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-15.35.28:805][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-15.35.28:805][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-15.35.28:819][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-15.35.28:819][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-15.35.28:819][823]LogInit: FAudioDevice initialized.
+[2021.08.07-15.35.28:819][823]LogAudio: Display: Audio Device (ID: 25) registered with world 'Mansion'.
+[2021.08.07-15.35.28:828][823]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-15.35.28:832][823]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2021.08.07-11.35.28
+[2021.08.07-15.35.28:832][823]LogWorld: Bringing up level for play took: 0.002621
+[2021.08.07-15.35.28:832][823]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.08.07-15.35.28:835][823]PIE: Server logged in
+[2021.08.07-15.35.28:836][823]PIE: Play in editor total start time 0.102 seconds.
+[2021.08.07-15.36.49:905][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-15.36.49:905][684]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Mansion
+[2021.08.07-15.36.49:905][684]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-15.36.49:906][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-15.36.49:914][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-15.36.49:927][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-15.36.49:940][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-15.36.49:940][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-15.36.49:941][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-15.36.49:954][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-15.36.49:958][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.08.07-15.36.49:983][685]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.08.07-15.38.30:594][687]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.07-15.38.32:040][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.08.07-15.38.32:085][771]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion2B7628454C682FBD05E76BB01EF07A55.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.38.32:105][771]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.38.32:105][771]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-15.38.49:134][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.08.07-15.38.49:164][791]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion11BCC4844A5558F767B48AA0E8F7F447.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.38.49:177][791]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.38.49:177][791]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
+[2021.08.07-15.38.49:662][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.07-15.38.49:687][819]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Mansion5A2013BD42992CFE6D69DCB3433DF65D.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/FirstPersonBP/Maps/Mansion.umap'
+[2021.08.07-15.38.49:706][819]AssetCheck: New page: Asset Save: Mansion
+[2021.08.07-15.38.49:706][819]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mansion.Mansion
