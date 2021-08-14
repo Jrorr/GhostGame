@@ -5216,3 +5216,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.14-03.43.12:652][591]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
 [2021.08.14-03.43.13:610][591]LogD3D11RHI: Shutdown
 [2021.08.14-03.43.13:610][591]LogD3D11RHI: CleanupD3DDevice
+[2021.08.14-03.43.18:093][591]LogExit: Exiting.
+[2021.08.14-03.43.18:416][591]Log file closed, 08/13/21 23:43:18
