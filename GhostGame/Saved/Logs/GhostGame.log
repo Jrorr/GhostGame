@@ -2026,3 +2026,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.15-21.48.13:024][667]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level669340714AF71E0230048881EB3FD3A6.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
 [2021.08.15-21.48.13:039][667]AssetCheck: New page: Asset Save: Graveyard_Level
 [2021.08.15-21.48.13:039][667]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-21.49.01:819][626]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.08.15-21.49.08:586][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_polySurface3_pCube2)
+[2021.08.15-21.49.09:610][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1stfloor)
+[2021.08.15-21.50.01:936][144]LogRenderer: Reallocating scene render targets to support 1588x792 Format 10 NumSamples 1 (Frame:109555).
+[2021.08.15-21.50.01:978][145]LogRenderer: Reallocating scene render targets to support 1588x800 Format 10 NumSamples 1 (Frame:109557).
+[2021.08.15-21.50.48:651][894]LogSlate: Window 'Invisible' being destroyed
+[2021.08.15-21.50.49:968][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.15-21.50.50:339][972]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelDEBABF244EA0FEA4CD2D24A4508A7D45.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-21.50.50:353][972]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-21.50.50:353][972]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
