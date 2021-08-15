@@ -975,3 +975,189 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.15-23.09.19:275][265]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level62254632418094CADB59CEA24141E6D8.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
 [2021.08.15-23.09.19:288][265]AssetCheck: New page: Asset Save: Graveyard_Level
 [2021.08.15-23.09.19:288][265]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-23.10.43:239][600]Cmd: TRANSACTION UNDO
+[2021.08.15-23.10.43:239][600]LogEditorTransaction: Undo Set Scale
+[2021.08.15-23.11.41:966][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision5)
+[2021.08.15-23.11.52:062][710]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.08.15-23.11.53:258][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.15-23.11.53:634][778]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelAFD57D864652FCF6A04BD69520BDEF87.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-23.11.53:654][778]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-23.11.53:654][778]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-23.11.55:037][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision7)
+[2021.08.15-23.14.29:864][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision10)
+[2021.08.15-23.14.59:661][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision11)
+[2021.08.15-23.16.18:157][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision)
+[2021.08.15-23.16.26:273][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision14)
+[2021.08.15-23.16.34:877][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.15-23.16.35:253][447]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelB1036C224A51B8452C53B3975C8329FE.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-23.16.35:276][447]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-23.16.35:276][447]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-23.16.49:117][589]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.08.15-23.16.50:539][666]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.08.15-23.16.51:977][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision14)
+[2021.08.15-23.18.46:493][794]LogEditorViewport: Clicking on Actor (LMB): Brush (stairCutout2)
+[2021.08.15-23.18.47:109][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Long55)
+[2021.08.15-23.18.49:949][995]LogEditorViewport: Clicking on Actor (LMB): Brush (stairCutout2)
+[2021.08.15-23.18.50:420][ 22]LogEditorViewport: Clicking on Actor (LMB): Brush (stairCutout2)
+[2021.08.15-23.19.01:611][689]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.08.15-23.19.02:566][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.08.15-23.19.02:944][744]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelCFDEA80245389093A6F12396BE054F7B.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-23.19.02:962][744]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-23.19.02:962][744]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-23.19.07:447][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision14)
+[2021.08.15-23.23.01:799][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision18)
+[2021.08.15-23.23.25:992][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.15-23.23.26:360][683]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelF92BD78B4B08143A2246BB860C1AF2A2.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-23.23.26:376][683]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-23.23.26:376][683]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-23.23.26:747][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.08.15-23.23.27:116][705]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelFE980398481975E77ADEDB9F22B6F29F.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-23.23.27:129][705]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-23.23.27:130][705]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-23.23.28:372][780]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.15-23.23.28:377][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.15-23.23.28:377][780]PIE: New page: PIE session: Graveyard_Level (Aug 15, 2021, 3:23:28 PM)
+[2021.08.15-23.23.28:379][780]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.15-23.23.28:380][780]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.15-23.23.28:380][780]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Graveyard_Level
+[2021.08.15-23.23.28:458][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078281s)
+[2021.08.15-23.23.28:459][780]LogAIModule: Creating AISystem for world Graveyard_Level
+[2021.08.15-23.23.28:459][780]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2021.08.15-23.23.28:460][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Graveyard_Level.Graveyard_Level to /Game/Maps/UEDPIE_0_Graveyard_Level.Graveyard_Level (0.079882s)
+[2021.08.15-23.23.28:465][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.15-23.23.28:465][780]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.15-23.23.28:465][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.15-23.23.28:465][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.15-23.23.28:465][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.15-23.23.28:466][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.15-23.23.28:466][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.15-23.23.28:466][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.15-23.23.28:466][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.15-23.23.28:466][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.15-23.23.28:466][780]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.15-23.23.28:466][780]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.15-23.23.28:470][780]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.15-23.23.28:470][780]LogAudioMixer: Display: 1: FrontRight
+[2021.08.15-23.23.28:496][780]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.08.15-23.23.28:496][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.15-23.23.28:496][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.15-23.23.28:496][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.15-23.23.28:496][780]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.15-23.23.28:496][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.15-23.23.28:496][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.15-23.23.28:508][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.15-23.23.28:508][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.15-23.23.28:508][780]LogInit: FAudioDevice initialized.
+[2021.08.15-23.23.28:508][780]LogAudio: Display: Audio Device (ID: 2) registered with world 'Graveyard_Level'.
+[2021.08.15-23.23.28:516][780]LogLoad: Game class is 'BP_GM_Default_C'
+[2021.08.15-23.23.28:539][780]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Graveyard_Level.Graveyard_Level up for play (max tick rate 60) at 2021.08.15-19.23.28
+[2021.08.15-23.23.28:540][780]LogWorld: Bringing up level for play took: 0.023332
+[2021.08.15-23.23.28:540][780]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.08.15-23.23.28:544][780]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.08.15-23.23.28:545][780]LogBlueprintUserMessages: [HauntManager_2] Number of Artifacts in this level:
+[2021.08.15-23.23.28:546][780]LogBlueprintUserMessages: [HauntManager_2] 4.0
+[2021.08.15-23.23.28:546][780]PIE: Server logged in
+[2021.08.15-23.23.28:547][780]PIE: Play in editor total start time 0.171 seconds.
+[2021.08.15-23.23.39:346][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.15-23.23.39:346][423]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Graveyard_Level
+[2021.08.15-23.23.39:346][423]LogWorld: UWorld::CleanupWorld for Graveyard_Level, bSessionEnded=true, bCleanupResources=true
+[2021.08.15-23.23.39:350][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.15-23.23.39:357][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.15-23.23.39:372][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.15-23.23.39:377][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.15-23.23.39:379][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.15-23.23.39:380][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.15-23.23.39:410][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.15-23.23.39:437][424]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.08.15-23.23.42:260][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision12)
+[2021.08.15-23.24.34:868][735]Cmd: TRANSACTION UNDO
+[2021.08.15-23.24.34:868][735]LogEditorTransaction: Undo Set Scale
+[2021.08.15-23.24.40:538][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision21)
+[2021.08.15-23.25.12:106][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.15-23.25.12:478][955]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level34CF8B5A4206B88495D3F59EA8B9DB25.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-23.25.12:492][955]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-23.25.12:492][955]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-23.25.20:658][445]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.15-23.25.20:664][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.15-23.25.20:664][445]PIE: New page: PIE session: Graveyard_Level (Aug 15, 2021, 3:25:20 PM)
+[2021.08.15-23.25.20:685][445]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Graveyard_Level
+[2021.08.15-23.25.20:769][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083703s)
+[2021.08.15-23.25.20:771][445]LogAIModule: Creating AISystem for world Graveyard_Level
+[2021.08.15-23.25.20:771][445]LogPlayLevel: PIE: World Init took: (0.001944s)
+[2021.08.15-23.25.20:771][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Graveyard_Level.Graveyard_Level to /Game/Maps/UEDPIE_0_Graveyard_Level.Graveyard_Level (0.085881s)
+[2021.08.15-23.25.20:777][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.15-23.25.20:777][445]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.15-23.25.20:777][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.15-23.25.20:777][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.15-23.25.20:777][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.15-23.25.20:777][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.15-23.25.20:777][445]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.15-23.25.20:777][445]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.15-23.25.20:777][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.15-23.25.20:777][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.15-23.25.20:778][445]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.15-23.25.20:778][445]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.15-23.25.20:781][445]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.15-23.25.20:781][445]LogAudioMixer: Display: 1: FrontRight
+[2021.08.15-23.25.20:807][445]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.08.15-23.25.20:807][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.15-23.25.20:807][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.15-23.25.20:807][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.15-23.25.20:807][445]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.15-23.25.20:807][445]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.15-23.25.20:807][445]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.15-23.25.20:820][445]LogInit: FAudioDevice initialized.
+[2021.08.15-23.25.20:820][445]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.15-23.25.20:820][445]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.15-23.25.20:820][445]LogAudio: Display: Audio Device (ID: 3) registered with world 'Graveyard_Level'.
+[2021.08.15-23.25.20:829][445]LogLoad: Game class is 'BP_GM_Default_C'
+[2021.08.15-23.25.20:850][445]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Graveyard_Level.Graveyard_Level up for play (max tick rate 60) at 2021.08.15-19.25.20
+[2021.08.15-23.25.20:851][445]LogWorld: Bringing up level for play took: 0.022334
+[2021.08.15-23.25.20:851][445]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.08.15-23.25.20:854][445]LogBlueprintUserMessages: [HauntManager_2] Number of Artifacts in this level:
+[2021.08.15-23.25.20:854][445]LogBlueprintUserMessages: [HauntManager_2] 4.0
+[2021.08.15-23.25.20:854][445]PIE: Server logged in
+[2021.08.15-23.25.20:855][445]PIE: Play in editor total start time 0.192 seconds.
+[2021.08.15-23.25.42:776][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.15-23.25.42:776][756]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Graveyard_Level
+[2021.08.15-23.25.42:777][756]LogWorld: UWorld::CleanupWorld for Graveyard_Level, bSessionEnded=true, bCleanupResources=true
+[2021.08.15-23.25.42:779][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.15-23.25.42:784][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.15-23.25.42:799][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.15-23.25.42:804][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.15-23.25.42:805][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.15-23.25.42:806][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.15-23.25.42:835][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.08.15-23.25.42:859][757]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.08.15-23.25.45:073][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision2)
+[2021.08.15-23.25.46:665][983]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision4)
+[2021.08.15-23.25.47:903][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision3)
+[2021.08.15-23.25.48:661][100]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision14)
+[2021.08.15-23.25.49:990][178]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision16)
+[2021.08.15-23.25.50:416][202]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision15)
+[2021.08.15-23.25.59:598][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision17)
+[2021.08.15-23.26.00:760][815]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision18)
+[2021.08.15-23.26.01:134][836]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision19)
+[2021.08.15-23.26.14:672][645]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision20)
+[2021.08.15-23.26.14:930][659]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision6)
+[2021.08.15-23.26.15:254][677]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision7)
+[2021.08.15-23.26.20:840][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision20)
+[2021.08.15-23.26.21:535][ 50]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision6)
+[2021.08.15-23.26.21:928][ 72]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision7)
+[2021.08.15-23.26.29:917][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision9)
+[2021.08.15-23.26.31:509][642]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision10)
+[2021.08.15-23.26.31:836][660]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision8)
+[2021.08.15-23.26.32:177][679]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision11)
+[2021.08.15-23.26.35:584][881]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision12)
+[2021.08.15-23.26.36:260][920]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision13)
+[2021.08.15-23.26.46:772][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision21)
+[2021.08.15-23.26.47:315][576]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision22)
+[2021.08.15-23.26.47:622][593]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall for collision23)
+[2021.08.15-23.26.59:826][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.08.15-23.27.00:200][318]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level15AA25C04D41A1C1B0DBA8ABD48D74AF.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-23.27.00:218][318]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-23.27.00:218][318]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-23.27.04:929][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.08.15-23.27.05:302][599]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level24D0D36A42BAF40CB975B0A40BF68468.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-23.27.05:321][599]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-23.27.05:321][599]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
