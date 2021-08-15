@@ -957,3 +957,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.15-23.01.19:993][ 73]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level8F0B00424413D50049CBE1B23CA0B31B.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
 [2021.08.15-23.01.20:005][ 73]AssetCheck: New page: Asset Save: Graveyard_Level
 [2021.08.15-23.01.20:005][ 73]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-23.02.25:592][585]LogActorFactory: Actor Factory created Cube
+[2021.08.15-23.02.26:784][651]LogActorFactory: Actor Factory created Cube
+[2021.08.15-23.04.31:157][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.15-23.04.31:530][ 98]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level632562804441037A91C40D8103F33716.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-23.04.31:543][ 98]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-23.04.31:543][ 98]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.15-23.05.13:537][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision)
+[2021.08.15-23.05.40:571][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision2)
+[2021.08.15-23.06.43:819][ 18]Cmd: TRANSACTION UNDO
+[2021.08.15-23.06.43:819][ 18]LogEditorTransaction: Undo Move Actors
+[2021.08.15-23.06.46:102][143]Cmd: TRANSACTION UNDO
+[2021.08.15-23.06.46:103][143]LogEditorTransaction: Undo Move Actors
+[2021.08.15-23.07.58:821][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall for collision)
+[2021.08.15-23.08.41:779][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.08.15-23.09.18:901][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.08.15-23.09.19:275][265]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level62254632418094CADB59CEA24141E6D8.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.15-23.09.19:288][265]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.15-23.09.19:288][265]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
