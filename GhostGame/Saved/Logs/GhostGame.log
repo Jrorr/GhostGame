@@ -1288,3 +1288,69 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-03.03.08:605][769]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level08F7B1DB4F955EDE0A45C3AA72A2E0F0.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
 [2021.08.19-03.03.08:626][769]AssetCheck: New page: Asset Save: Graveyard_Level
 [2021.08.19-03.03.08:626][769]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.19-03.05.10:598][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bookshelf_69)
+[2021.08.19-03.05.29:407][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bookshelf_70)
+[2021.08.19-03.05.30:720][380]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bookshelf_71)
+[2021.08.19-03.05.31:109][401]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bookshelf_72)
+[2021.08.19-03.05.31:360][414]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bookshelf_73)
+[2021.08.19-03.05.42:534][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bookshelf_77)
+[2021.08.19-03.06.17:278][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bookshelf_80)
+[2021.08.19-03.06.20:096][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bookshelf_79)
+[2021.08.19-03.06.25:816][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bookshelf_81)
+[2021.08.19-03.06.44:886][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp3)
+[2021.08.19-03.06.48:126][863]Cmd: TRANSACTION UNDO
+[2021.08.19-03.06.48:127][863]LogEditorTransaction: Undo Move Actors
+[2021.08.19-03.06.58:393][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2021.08.19-03.07.05:304][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bookshelf_85)
+[2021.08.19-03.07.24:968][ 12]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bookshelf_86)
+[2021.08.19-03.07.25:430][ 37]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bookshelf_87)
+[2021.08.19-03.07.26:724][112]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bookshelf_88)
+[2021.08.19-03.07.46:062][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp17)
+[2021.08.19-03.07.52:563][639]Cmd: TRANSACTION UNDO
+[2021.08.19-03.07.52:563][639]LogEditorTransaction: Undo Move Actors
+[2021.08.19-03.08.06:440][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bookshelf_55)
+[2021.08.19-03.08.12:300][793]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.08.19-03.08.13:310][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.08.19-03.08.13:739][849]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelAF62E954488A8CACCD8E05869F865B53.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.19-03.08.13:760][849]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.19-03.08.13:760][849]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.19-03.08.49:821][970]LogSlate: Took 0.004922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.19-03.08.53:967][212]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.08.19-03.09.04:792][828]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.08.19-03.10.25:015][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.08.19-03.10.25:442][508]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level493197FE46C73E2F9052F98ADA5585A3.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.19-03.10.25:468][508]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.19-03.10.25:468][508]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.19-03.11.06:782][905]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.08.19-03.11.38:136][718]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2021.08.19-03.11.38:136][718]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2021.08.19-03.11.38:136][718]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.08.19-03.11.41:281][900]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.08.19-03.14.28:294][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.08.19-03.14.28:736][561]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelDAF4AEDB40D36F165F60CC837FDE0A18.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.19-03.14.28:756][561]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.19-03.14.28:756][561]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.19-03.15.19:550][534]LogActorFactory: Actor Factory created SM_Chair
+[2021.08.19-03.15.20:823][652]LogActorFactory: Actor Factory created SM_Chair
+[2021.08.19-03.15.39:976][315]LogActorFactory: Actor Factory created SM_Chair_Broken
+[2021.08.19-03.15.42:988][586]LogActorFactory: Actor Factory created SM_Chair_Broken
+[2021.08.19-03.16.47:869][333]LogActorFactory: Actor Factory created SM_Drawer_04
+[2021.08.19-03.16.48:432][374]LogActorFactory: Actor Factory created SM_Drawer_04
+[2021.08.19-03.17.03:095][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_Broken2)
+[2021.08.19-03.17.06:874][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Drawer_5)
+[2021.08.19-03.17.19:004][607]LogActorFactory: Actor Factory created SM_Rubble
+[2021.08.19-03.17.20:298][699]LogActorFactory: Actor Factory created SM_Rubble
+[2021.08.19-03.17.28:787][424]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.08.19-03.17.31:051][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.08.19-03.17.31:478][606]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level16BE5F9141DE937B45E5D395B2BE9FDD.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.19-03.17.31:498][606]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.19-03.17.31:498][606]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.19-03.17.46:466][933]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.08.19-03.27.02:179][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.19-03.27.02:607][480]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level4C6F2F654EDEFB649D78F6903AB4F45B.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.19-03.27.02:629][480]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.19-03.27.02:629][480]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.19-03.27.14:825][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.08.19-03.27.15:256][537]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelF8A1C769436940D92275918A731BFA00.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.19-03.27.15:271][537]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.19-03.27.15:271][537]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
