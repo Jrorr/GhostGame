@@ -5578,3 +5578,153 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.28-21.34.28:589][686]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level8CC493E64DF06A04C5C7CEA509BEE053.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
 [2021.08.28-21.34.28:611][686]AssetCheck: New page: Asset Save: Graveyard_Level
 [2021.08.28-21.34.28:611][686]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.28-21.35.17:234][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp30)
+[2021.08.28-21.35.18:762][737]LogEditorViewport: Clicking on Actor (LMB): PointLight (Flicker Light8)
+[2021.08.28-21.35.21:185][  9]LogEditorViewport: Clicking on Actor (LMB): PointLight (Flicker Light7)
+[2021.08.28-21.35.21:916][ 91]Cmd: DELETE
+[2021.08.28-21.35.21:916][ 91]Cmd: ACTOR DELETE
+[2021.08.28-21.35.21:938][ 91]LogEditorActor: Deleted Actor: PointLight
+[2021.08.28-21.35.21:946][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.28-21.35.21:948][ 91]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.08.28-21.35.22:581][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp29)
+[2021.08.28-21.35.22:666][170]Cmd: DELETE
+[2021.08.28-21.35.22:666][170]Cmd: ACTOR DELETE
+[2021.08.28-21.35.22:688][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.28-21.35.22:695][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.28-21.35.22:696][170]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.08.28-21.35.24:635][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.28-21.35.25:099][374]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level15CFB7774B76618742EC999F8AF9CCFB.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.28-21.35.25:114][374]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.28-21.35.25:114][374]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.28-21.39.08:159][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp24)
+[2021.08.28-21.39.11:044][196]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (Flicker Light2)
+[2021.08.28-21.39.26:736][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp6)
+[2021.08.28-21.39.28:246][  3]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight10)
+[2021.08.28-21.39.31:008][263]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Lamp6)
+[2021.08.28-21.40.01:949][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.08.28-21.40.02:419][880]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelDC51E9B44DC79841A3D843939C81DBD5.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.28-21.40.02:438][880]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.28-21.40.02:438][880]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.28-21.40.49:470][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.08.28-21.41.26:345][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.28-21.41.26:816][995]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level314813A54C8FCCB55193FB8B740300FE.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.28-21.41.26:832][995]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.28-21.41.26:832][995]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.28-21.41.42:691][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp29)
+[2021.08.28-21.41.43:931][810]LogEditorViewport: Clicking on Actor (LMB): PointLight (Flicker Light7)
+[2021.08.28-21.41.50:618][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.28-21.41.51:080][488]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level38317F864336672E85CC789026720C57.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.28-21.41.51:106][488]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.28-21.41.51:106][488]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.28-21.42.14:621][758]Cmd: SELECT NONE
+[2021.08.28-21.42.42:310][514]Cmd: TRANSACTION UNDO
+[2021.08.28-21.42.42:310][514]LogEditorTransaction: Undo Move Actors
+[2021.08.28-21.43.18:358][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Frame_Big5)
+[2021.08.28-21.43.19:088][ 20]Cmd: DELETE
+[2021.08.28-21.43.19:088][ 20]Cmd: ACTOR DELETE
+[2021.08.28-21.43.19:112][ 20]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.28-21.43.19:121][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.08.28-21.43.19:123][ 20]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.08.28-21.43.41:939][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa13)
+[2021.08.28-21.43.46:216][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa15)
+[2021.08.28-21.43.51:999][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_Broken11)
+[2021.08.28-21.43.52:716][209]Cmd: DELETE
+[2021.08.28-21.43.52:716][209]Cmd: ACTOR DELETE
+[2021.08.28-21.43.52:740][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.28-21.43.52:748][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.08.28-21.43.52:750][209]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.08.28-21.43.53:127][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair6)
+[2021.08.28-21.43.53:188][253]Cmd: DELETE
+[2021.08.28-21.43.53:188][253]Cmd: ACTOR DELETE
+[2021.08.28-21.43.53:212][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.28-21.43.53:220][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.28-21.43.53:221][253]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.08.28-21.43.53:962][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stool4)
+[2021.08.28-21.43.54:509][399]Cmd: DELETE
+[2021.08.28-21.43.54:509][399]Cmd: ACTOR DELETE
+[2021.08.28-21.43.54:533][399]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.28-21.43.54:542][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.28-21.43.54:544][399]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.08.28-21.43.54:853][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa14)
+[2021.08.28-21.44.12:882][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa16)
+[2021.08.28-21.44.37:273][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.28-21.44.37:747][307]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelE8707B3B4F619A09C7910594780B9D60.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.28-21.44.37:769][307]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.28-21.44.37:769][307]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.28-21.45.02:222][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_Open5)
+[2021.08.28-21.45.03:460][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_Open5)
+[2021.08.28-21.45.03:921][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_Open5)
+[2021.08.28-21.45.06:125][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_Open5)
+[2021.08.28-21.45.09:293][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_Open3)
+[2021.08.28-21.47.13:790][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.08.28-21.47.14:265][252]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelAA91700C4056093F339878B01A37ECA0.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.28-21.47.14:281][252]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.28-21.47.14:281][252]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.28-21.47.23:134][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp6)
+[2021.08.28-21.47.26:945][402]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight10)
+[2021.08.28-21.47.52:455][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1stfloor)
+[2021.08.28-21.47.53:292][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp)
+[2021.08.28-21.47.54:153][851]Cmd: DELETE
+[2021.08.28-21.47.54:153][851]Cmd: ACTOR DELETE
+[2021.08.28-21.47.54:177][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.28-21.47.54:184][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.28-21.47.54:186][851]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.08.28-21.47.55:009][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1stfloor)
+[2021.08.28-21.47.55:836][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1stfloor)
+[2021.08.28-21.47.56:323][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp9)
+[2021.08.28-21.47.58:535][269]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight14)
+[2021.08.28-21.48.06:708][ 93]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight14)
+[2021.08.28-21.48.12:237][675]Cmd: TRANSACTION UNDO
+[2021.08.28-21.48.12:237][675]LogEditorTransaction: Undo Move Actors
+[2021.08.28-21.48.12:740][698]Cmd: TRANSACTION UNDO
+[2021.08.28-21.48.12:740][698]LogEditorTransaction: Undo Move Actors
+[2021.08.28-21.48.57:923][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.08.28-21.48.58:400][847]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_Level78A18B7E450432E5698451B58DCDB97A.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.28-21.48.58:417][847]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.28-21.48.58:418][847]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.28-21.49.11:751][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa15)
+[2021.08.28-21.49.17:259][526]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2021.08.28-21.49.18:246][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.08.28-21.49.18:716][584]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelA11E48B14331C128738E38A0043A73E2.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.28-21.49.18:732][584]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.28-21.49.18:732][584]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
+[2021.08.28-21.57.11:716][702]Cmd: DELETE
+[2021.08.28-21.57.11:716][702]Cmd: ACTOR DELETE
+[2021.08.28-21.57.11:742][702]LogEditorActor: Deleted Actor: Brush
+[2021.08.28-21.57.11:750][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.28-21.57.11:786][702]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2021.08.28-21.57.13:741][908]Cmd: DELETE
+[2021.08.28-21.57.13:741][908]Cmd: ACTOR DELETE
+[2021.08.28-21.57.13:766][908]LogEditorActor: Deleted Actor: Brush
+[2021.08.28-21.57.13:772][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.28-21.57.13:807][908]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2021.08.28-21.57.15:155][ 20]Cmd: DELETE
+[2021.08.28-21.57.15:155][ 20]Cmd: ACTOR DELETE
+[2021.08.28-21.57.15:181][ 20]LogEditorActor: Deleted Actor: Brush
+[2021.08.28-21.57.15:188][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.08.28-21.57.15:217][ 20]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.08.28-21.57.16:750][164]Cmd: DELETE
+[2021.08.28-21.57.16:750][164]Cmd: ACTOR DELETE
+[2021.08.28-21.57.16:775][164]LogEditorActor: Deleted Actor: Brush
+[2021.08.28-21.57.16:781][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.28-21.57.16:818][164]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2021.08.28-21.57.17:997][273]Cmd: DELETE
+[2021.08.28-21.57.17:997][273]Cmd: ACTOR DELETE
+[2021.08.28-21.57.18:023][273]LogEditorActor: Deleted Actor: Brush
+[2021.08.28-21.57.18:032][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.28-21.57.18:063][273]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2021.08.28-21.57.19:107][359]Cmd: DELETE
+[2021.08.28-21.57.19:107][359]Cmd: ACTOR DELETE
+[2021.08.28-21.57.19:138][359]LogEditorActor: Deleted Actor: Brush
+[2021.08.28-21.57.19:146][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.28-21.57.19:177][359]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2021.08.28-21.57.20:250][455]Cmd: DELETE
+[2021.08.28-21.57.20:250][455]Cmd: ACTOR DELETE
+[2021.08.28-21.57.20:276][455]LogEditorActor: Deleted Actor: Brush
+[2021.08.28-21.57.20:282][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.08.28-21.57.20:313][455]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2021.08.28-21.58.37:182][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_Open8)
+[2021.08.28-21.59.40:700][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.08.28-21.59.41:180][161]LogSavePackage: Moving '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Saved/Graveyard_LevelD9D39DDC47A867C537E052800ED2DB45.tmp' to '../../../../../../Users/cthoi/Documents/GitHub/GhostGame/GhostGame/Content/Maps/Graveyard_Level.umap'
+[2021.08.28-21.59.41:214][161]AssetCheck: New page: Asset Save: Graveyard_Level
+[2021.08.28-21.59.41:214][161]LogContentValidation: Display: Validating World /Game/Maps/Graveyard_Level.Graveyard_Level
